@@ -1,0 +1,141 @@
+Source,Target,Type,Id,Weight,communication
+Bamby,Whyte,Undirected,352,1,context
+Blofeld's man 1,Blofeld's man 2,Undirected,353,1,context
+Blofeld,Blofeld's man 1,Undirected,354,1,context
+Blofeld,Blofeld's man 2,Undirected,355,1,context
+Blofeld,Maria,Undirected,356,1,context
+Blofeld,Non-Blofeld,Undirected,357,1,context
+Blofeld,Shady,Undirected,358,1,context
+Blofeld,Whyte,Undirected,359,1,context
+Donald,Donald's assistant,Undirected,360,1,context
+Felix,Q,Undirected,361,1,context
+Joe,Tynan,Undirected,362,1,context
+Maria,arab 2,Undirected,363,1,context
+Mrs. Whistler,Tiffany,Undirected,364,1,context
+M,Q,Undirected,365,1,context
+Saxby,Shady,Undirected,366,1,context
+Tamper,Whyte,Undirected,367,1,context
+surgeon,surgeon'a assiatant,Undirected,368,1,context
+Blofeld's man 1,James Bond,Undirected,369,2,verbal
+Blofeld's man 2,James Bond,Undirected,370,1,nonverbal
+Blofeld,surgeon'a assiatants,Undirected,371,1,nonverbal
+Felix,Gamilton,Undirected,372,1,nonverbal
+Felix,Tamper,Undirected,373,1,nonverbal
+James Bond,Kidd,Undirected,374,2,verbal
+James Bond,Non-Blofeld,Undirected,375,1,nonverbal
+James Bond,Shady,Undirected,376,2,verbal
+James Bond,Tiffany,Undirected,377,17,verbal
+James Bond,Wint,Undirected,378,2,verbal
+James Bond,lab guards,Undirected,379,1,nonverbal
+James Bond,policeman 1,Undirected,380,1,nonverbal
+James Bond,policeman 2,Undirected,381,1,nonverbal
+James Bond,surgeon'a assiatant,Undirected,382,1,nonverbal
+Kidd,Wint,Undirected,383,14,verbal
+Metz,Saxby,Undirected,384,1,nonverbal
+lab guard 1,lab guards,Undirected,497,1,
+Tiffany,agent 3,Undirected,386,1,nonverbal
+Tiffany,policeman 1,Undirected,387,1,nonverbal
+Tiffany,policeman 2,Undirected,388,1,nonverbal
+policeman 1,policeman 2,Undirected,389,2,verbal
+Bamby,James Bond,Undirected,390,1,verbal
+Bamby,Tamper,Undirected,391,1,verbal
+Blofeld 2,James Bond,Undirected,392,2,verbal
+Blofeld 2,governor,Undirected,393,1,verbal
+Blofeld's men,James Bond,Undirected,395,1,verbal
+Blofeld's men,Metz,Undirected,396,1,verbal
+Blofeld,Blofeld 2,Undirected,397,2,verbal
+Blofeld,Blofeld's man 3,Undirected,398,1,verbal
+Blofeld,Blofeld's men,Undirected,399,2,verbal
+Blofeld,James Bond,Undirected,400,12,verbal
+Blofeld,Metz,Undirected,401,6,verbal
+Blofeld,Saxby,Undirected,402,1,verbal
+Blofeld,Tiffany,Undirected,403,4,verbal
+Blofeld,scientist in lab,Undirected,404,2,verbal
+Blofeld,surgeon,Undirected,405,1,verbal
+Donald's assistant,James Bond,Undirected,406,1,verbal
+Donald's assistant,M,Undirected,407,1,verbal
+Donald,James Bond,Undirected,408,3,verbal
+Donald,M,Undirected,409,2,verbal
+Felix,James Bond,Undirected,410,13,verbal
+Felix,Jerry,Undirected,411,1,verbal
+Felix,Tiffany,Undirected,412,2,verbal
+Felix,Tom,Undirected,413,1,verbal
+Felix,Whyte,Undirected,414,3,verbal
+Felix,agent 1,Undirected,415,1,verbal
+Felix,agent 2,Undirected,416,2,verbal
+Felix,agent 4,Undirected,417,1,verbal
+Felix,agents,Undirected,418,1,verbal
+Felix,gangsters,Undirected,419,1,verbal
+Franks,James Bond,Undirected,420,1,verbal
+Franks,customs officer,Undirected,421,1,verbal
+James Bond,Klaus,Undirected,423,1,verbal
+James Bond,M,Undirected,424,4,verbal
+James Bond,Maria,Undirected,425,1,verbal
+James Bond,Metz,Undirected,426,1,verbal
+James Bond,Moneypenny,Undirected,427,1,verbal
+James Bond,Plenty,Undirected,428,2,verbal
+James Bond,Q,Undirected,429,2,verbal
+James Bond,Saxby,Undirected,430,1,verbal
+James Bond,Slumber,Undirected,432,3,verbal
+James Bond,Tamper,Undirected,433,1,verbal
+James Bond,Tom,Undirected,435,2,verbal
+James Bond,Whyte,Undirected,436,7,verbal
+James Bond,agent 2,Undirected,438,1,verbal
+James Bond,arab,Undirected,439,1,verbal
+James Bond,asian man,Undirected,440,1,verbal
+James Bond,dealer 2,Undirected,441,1,verbal
+James Bond,gangsters,Undirected,442,2,verbal
+James Bond,pilot,Undirected,443,2,verbal
+James Bond,surgeon,Undirected,444,1,verbal
+James Bond,worker1,Undirected,445,1,verbal
+James Bond,worker2,Undirected,446,1,verbal
+Jerry,pilot,Undirected,447,1,verbal
+Joe,Kidd,Undirected,448,1,verbal
+Joe,Wint,Undirected,449,1,verbal
+Kidd,Mrs. Whistler,Undirected,450,1,verbal
+Kidd,Saxby,Undirected,451,1,verbal
+Kidd,Shady,Undirected,452,1,verbal
+Kidd,Tiffany,Undirected,453,1,verbal
+Kidd,Tynan,Undirected,454,1,verbal
+Klaus,Metz,Undirected,456,1,verbal
+Klaus,scientist in lab,Undirected,457,1,verbal
+Metz,Tiffany,Undirected,458,1,verbal
+Metz,guard,Undirected,459,1,verbal
+Metz,scientist in lab,Undirected,460,2,verbal
+Mrs. Whistler,Wint,Undirected,461,1,verbal
+Mrs. Whistler,african children,Undirected,462,1,verbal
+Plenty,dealer 2,Undirected,463,1,verbal
+Plenty,gangsters,Undirected,464,1,verbal
+Plenty,man in casino,Undirected,465,1,verbal
+Q,Tiffany,Undirected,466,1,verbal
+Saxby,Whyte,Undirected,467,1,verbal
+Saxby,Wint,Undirected,468,1,verbal
+Saxby,dealer 2,Undirected,469,1,verbal
+Saxby,man on oil station,Undirected,470,1,verbal
+Saxby,porter,Undirected,471,1,verbal
+Shady,Slumber,Undirected,472,1,verbal
+Shady,Wint,Undirected,473,1,verbal
+Tiffany,Whyte,Undirected,474,1,verbal
+Tiffany,Wint,Undirected,475,1,verbal
+Tiffany,boy,Undirected,476,1,verbal
+Tiffany,contest host,Undirected,477,2,verbal
+Tiffany,man in the car,Undirected,478,1,verbal
+Tiffany,man on oil station,Undirected,479,1,verbal
+Tiffany,scientist,Undirected,480,1,verbal
+Tom,Whyte,Undirected,481,3,verbal
+Tynan,Wint,Undirected,482,1,verbal
+Tynan,african worker 2,Undirected,483,1,verbal
+Whyte,agent 2,Undirected,484,1,verbal
+Whyte,dispatcher 1,Undirected,485,2,verbal
+agent 1,agent 2,Undirected,486,1,verbal
+agent 2,agent 3,Undirected,487,1,verbal
+agent 2,agents,Undirected,488,1,verbal
+arab,dealer,Undirected,489,1,verbal
+boy,contest host,Undirected,490,1,verbal
+dispatcher 1,dispatcher 2,Undirected,491,2,verbal
+lab guard 1,lab guard 2,Undirected,492,1,verbal
+lab guard,lab guards,Undirected,493,1,verbal
+worker1,worker2,Undirected,495,2,verbal
+Tynan,african worker 1,Undirected,496,1,nonverbal
+lab guard 2,lab guards,Undirected,498,1,context
+M,Moneypenny,Undirected,499,1,context

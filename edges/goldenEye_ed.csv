@@ -1,0 +1,64 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Boris,Xenia,Undirected,303,,,1,context
+M,Moneypenny,Undirected,304,,,1,context
+Q,Wade,Undirected,305,,,1,context
+Admiral,James Bond,Undirected,306,,,2,verbal
+Alec,James Bond,Undirected,307,,,13,verbal
+Alec,Ourumov,Undirected,308,,,6,verbal
+Alec,scientist,Undirected,309,,,1,nonverbal
+Alec,soldiers,Undirected,310,,,1,nonverbal
+Boris,James Bond,Undirected,311,,,1,nonverbal
+James Bond,Natalia,Undirected,312,,,16,verbal
+James Bond,Ourumov,Undirected,313,,,4,verbal
+James Bond,man on ship,Undirected,314,,,1,nonverbal
+James Bond,pilot,Undirected,315,,,1,nonverbal
+James Bond,soldiers,Undirected,316,,,4,nonverbal
+James Bond,soldiers 2,Undirected,317,,,1,nonverbal
+Natalia,Ourumov,Undirected,318,,,3,verbal
+Natalia,helicopter pilot,Undirected,319,,,1,nonverbal
+Natalia,soldiers,Undirected,320,,,3,nonverbal
+Ourumov,soldiers,Undirected,321,,,5,verbal
+Xenia,base staff,Undirected,322,,,1,nonverbal
+Admiral,Xenia,Undirected,324,,,2,verbal
+Alec,Boris,Undirected,325,,,5,verbal
+Alec,Natalia,Undirected,327,,,4,verbal
+Alec,Xenia,Undirected,329,,,2,verbal
+Alec,helicopter pilot,Undirected,330,,,1,verbal
+Alec,machinist,Undirected,331,,,1,verbal
+Alec,soldier,Undirected,332,,,1,verbal
+Anna,Natalia,Undirected,333,,,1,verbal
+Boris,Natalia,Undirected,334,,,6,verbal
+Caroline,James Bond,Undirected,335,,,1,verbal
+Dealer,James Bond,Undirected,336,,,1,verbal
+Dealer,Xenia,Undirected,337,,,1,verbal
+Dimitri,Valentin,Undirected,338,,,1,verbal
+Irina,Valentin,Undirected,339,,,1,verbal
+James Bond,M,Undirected,340,,,4,verbal
+James Bond,Mishkin,Undirected,341,,,2,verbal
+James Bond,Moneypenny,Undirected,342,,,2,verbal
+James Bond,Q,Undirected,345,,,1,verbal
+James Bond,Tanner,Undirected,346,,,4,verbal
+James Bond,Valentin,Undirected,347,,,3,verbal
+James Bond,Valet,Undirected,348,,,1,verbal
+James Bond,Wade,Undirected,349,,,7,verbal
+James Bond,Xenia,Undirected,350,,,9,verbal
+James Bond,barman,Undirected,351,,,1,verbal
+James Bond,soldier 1,Undirected,352,,,1,verbal
+Mishkin,Natalia,Undirected,353,,,1,verbal
+Mishkin,Ourumov,Undirected,354,,,3,verbal
+M,Tanner,Undirected,355,,,3,verbal
+M,prime-minister,Undirected,356,,,1,verbal
+Natalia,Wade,Undirected,358,,,3,verbal
+Natalia,Xenia,Undirected,359,,,2,verbal
+Natalia,manager,Undirected,360,,,1,verbal
+Ourumov,Xenia,Undirected,361,,,4,verbal
+Ourumov,captain,Undirected,362,,,1,verbal
+Ourumov,driver,Undirected,363,,,1,verbal
+Ourumov,major,Undirected,364,,,1,verbal
+Xenia,barman,Undirected,366,,,1,verbal
+Xenia,captain,Undirected,367,,,1,verbal
+Xenia,pilot 1,Undirected,368,,,1,verbal
+Xenia,pilot 2,Undirected,369,,,1,verbal
+pilot 1,pilot 2,Undirected,370,,,1,verbal
+M,Q,Undirected,371,,,1,context
+M,Alec,Undirected,372,,,1,contexxt

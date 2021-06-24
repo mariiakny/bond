@@ -1,0 +1,124 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Feyador,warden,Undirected,617,,,1,context
+Kara,Koskov,Undirected,618,,,5,verbal
+Kara,Necros,Undirected,619,,,1,context
+Kara,Whitaker,Undirected,620,,,1,context
+Kara,soldier,Undirected,621,,,1,context
+Koskov,Pushkin,Undirected,622,,,2,verbal
+M,Q,Undirected,623,,,1,context
+M,agent 1,Undirected,624,,,1,context
+M,agent 2,Undirected,625,,,1,context
+M,agent 3,Undirected,626,,,1,context
+M,agent 4,Undirected,627,,,1,context
+M,agent 5,Undirected,628,,,1,context
+M,guard 1,Undirected,629,,,1,context
+M,guard 2,Undirected,630,,,1,context
+Shah,Snow Leopard,Undirected,631,,,1,context
+Feyador,Shah,Undirected,632,,,1,nonverbal
+James Bond,Kara,Undirected,633,,,31,verbal
+James Bond,Necros,Undirected,634,,,3,verbal
+James Bond,Pushkin's man,Undirected,635,,,1,nonverbal
+James Bond,Rubavitch,Undirected,636,,,3,verbal
+James Bond,afghans,Undirected,637,,,1,nonverbal
+James Bond,arab police,Undirected,638,,,1,nonverbal
+James Bond,dancer,Undirected,639,,,1,nonverbal
+James Bond,killer,Undirected,640,,,1,nonverbal
+James Bond,militia,Undirected,641,,,1,nonverbal
+James Bond,millitary men,Undirected,642,,,1,nonverbal
+KGB agents,Koskov,Undirected,643,,,1,nonverbal
+KGB agents,Necros,Undirected,644,,,1,nonverbal
+Kara,Pushkin,Undirected,645,,,1,nonverbal
+Kara,Pushkin's men,Undirected,646,,,1,nonverbal
+Kara,afghans,Undirected,647,,,1,nonverbal
+Kara,militia,Undirected,648,,,1,nonverbal
+Kara,millitary men,Undirected,649,,,1,nonverbal
+Koskov,Necros,Undirected,650,,,8,verbal
+Koskov,Saunders,Undirected,651,,,2,verbal
+Koskov,Snow Leopard,Undirected,652,,,1,nonverbal
+Koskov,girl 1,Undirected,653,,,1,nonverbal
+Koskov,girl 2,Undirected,654,,,1,nonverbal
+Koskov,pilot 1,Undirected,655,,,1,nonverbal
+Koskov,pilot 2,Undirected,656,,,1,nonverbal
+Necros,Snow Leopard,Undirected,657,,,1,nonverbal
+Necros,agent 4,Undirected,658,,,1,nonverbal
+Pushkin's man,Rubavitch,Undirected,659,,,1,nonverbal
+Pushkin,Pushkin's man,Undirected,660,,,2,nonverbal
+Pushkin,Rubavitch,Undirected,661,,,3,verbal
+Rosika,gasworks supervisor,Undirected,662,,,1,nonverbal
+afghans,soviet soldiers,Undirected,663,,,1,nonverbal
+girl 1,girl 2,Undirected,664,,,1,nonverbal
+militia,millitary men,Undirected,665,,,1,nonverbal
+pilot 1,pilot 2,Undirected,666,,,2,verbal
+Ava,James Bond,Undirected,667,,,3,verbal
+Ava,Leiter,Undirected,668,,,1,verbal
+Ava,Liz,Undirected,669,,,3,verbal
+Feyador,Koskov,Undirected,670,,,3,verbal
+Feyador,soviet soldiers,Undirected,671,,,1,verbal
+Ganz,James Bond,Undirected,672,,,1,verbal
+Gogol,Kara,Undirected,673,,,2,verbal
+Gogol,M,Undirected,674,,,2,verbal
+Gogol,Shah,Undirected,675,,,1,verbal
+James Bond,Koskov,Undirected,677,,,7,verbal
+James Bond,Leiter,Undirected,678,,,3,verbal
+James Bond,Liz,Undirected,679,,,3,verbal
+James Bond,M,Undirected,680,,,4,verbal
+James Bond,Moneypenny,Undirected,681,,,4,verbal
+James Bond,Pushkin,Undirected,683,,,5,verbal
+James Bond,Q,Undirected,684,,,4,verbal
+James Bond,Rosika,Undirected,685,,,1,verbal
+James Bond,Saunders,Undirected,687,,,7,verbal
+James Bond,Shah,Undirected,688,,,5,verbal
+James Bond,Whitaker,Undirected,689,,,1,verbal
+James Bond,austrian custom officer,Undirected,690,,,1,verbal
+James Bond,custom officer,Undirected,691,,,1,verbal
+James Bond,guard 1,Undirected,692,,,1,verbal
+James Bond,guard 2,Undirected,693,,,1,verbal
+James Bond,man in park,Undirected,694,,,1,verbal
+James Bond,man in shooting,Undirected,695,,,1,verbal
+James Bond,minister of defence,Undirected,696,,,3,verbal
+James Bond,policeman 1,Undirected,697,,,1,verbal
+James Bond,secretary,Undirected,698,,,2,verbal
+James Bond,taxi driver,Undirected,699,,,1,verbal
+James Bond,warden,Undirected,700,,,1,verbal
+James Bond,young woman,Undirected,701,,,1,verbal
+Kara,M,Undirected,703,,,3,verbal
+Kara,Shah,Undirected,704,,,6,verbal
+Kara,austrian custom officer,Undirected,705,,,1,verbal
+Kara,man in park,Undirected,706,,,1,verbal
+Kara,man in shooting,Undirected,707,,,1,verbal
+Kara,policeman 1,Undirected,708,,,1,verbal
+Kara,warden,Undirected,709,,,1,verbal
+Koskov,M,Undirected,710,,,2,verbal
+Koskov,Q,Undirected,713,,,1,verbal
+Koskov,Rosika,Undirected,714,,,1,verbal
+Koskov,Whitaker,Undirected,716,,,3,verbal
+Koskov,custom officer 1,Undirected,717,,,1,verbal
+Koskov,minister of defence,Undirected,718,,,2,verbal
+Koskov,secretary,Undirected,719,,,3,verbal
+Koskov,soldier,Undirected,720,,,1,verbal
+Leiter,Liz,Undirected,721,,,1,verbal
+Moneypenny,Q,Undirected,722,,,1,verbal
+M,MI-6 agents,Undirected,723,,,1,verbal
+M,Shah,Undirected,724,,,1,verbal
+M,minister of defence,Undirected,725,,,3,verbal
+M,secretary,Undirected,726,,,2,verbal
+Necros,Saunders,Undirected,727,,,1,verbal
+Necros,Whitaker,Undirected,728,,,2,verbal
+Necros,agent 5,Undirected,729,,,1,verbal
+Necros,chef,Undirected,730,,,1,verbal
+Necros,custom officer 1,Undirected,731,,,1,verbal
+Necros,guard 1,Undirected,732,,,1,verbal
+Necros,milkman,Undirected,733,,,1,verbal
+Necros,secretary,Undirected,734,,,1,verbal
+Pushkin,Whitaker,Undirected,736,,,2,verbal
+Pushkin,soldier,Undirected,737,,,1,verbal
+Q,Q's assistant,Undirected,738,,,1,verbal
+Shah,afghans,Undirected,739,,,1,verbal
+Shah,warden,Undirected,740,,,1,verbal
+Whitaker,soldier,Undirected,741,,,3,verbal
+agent 1,agent 2,Undirected,742,,,1,verbal
+agent 3,killer,Undirected,743,,,1,verbal
+agent 4,agent 5,Undirected,744,,,1,verbal
+killer,soldier 1,Undirected,745,,,1,verbal
+minister of defence,secretary,Undirected,746,,,2,verbal
+M,Moneypenny,Undirected,747,,,1,context

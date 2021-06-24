@@ -1,0 +1,111 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Hai Fat,Hai Fat assiatant,Undirected,496,,,1,context
+Hai Fat,Hai Fat guard,Undirected,497,,,1,context
+Hai Fat,teacher,Undirected,498,,,1,context
+James Bond,agent 002,Undirected,499,,,1,context
+Lazar,Scaramanga,Undirected,500,,,1,context
+M,Q,Undirected,501,,,4,verbal
+M,agent 002,Undirected,502,,,1,context
+Saida,agent 002,Undirected,503,,,1,context
+fighter,teacher,Undirected,504,,,1,context
+Ahmed,James Bond,Undirected,523,,,1,nonverbal
+Ahmed,man 1,Undirected,524,,,1,nonverbal
+Ahmed,man 2,Undirected,525,,,2,verbal
+Andrea,Lazar,Undirected,526,,,1,nonverbal
+Andrea,Nick,Undirected,527,,,1,nonverbal
+Andrea,Scaramanga,Undirected,528,,,5,verbal
+Gibson,Hip,Undirected,529,,,2,verbal
+Gibson,Scaramanga,Undirected,530,,,1,nonverbal
+Goodnight,James Bond,Undirected,531,,,15,verbal
+Goodnight,Kra,Undirected,532,,,1,nonverbal
+Goodnight,Nick,Undirected,533,,,1,nonverbal
+Goodnight,Scaramanga,Undirected,534,,,3,verbal
+Hip,James Bond,Undirected,535,,,15,verbal
+Hip,Scaramanga,Undirected,536,,,1,nonverbal
+Hip,fighters,Undirected,537,,,1,nonverbal
+Hip,niece 1,Undirected,538,,,4,verbal
+Hip,niece 2,Undirected,539,,,4,verbal
+J.W,James Bond,Undirected,540,,,4,verbal
+J.W,Nick,Undirected,541,,,1,nonverbal
+J.W,Scaramanga,Undirected,542,,,1,nonverbal
+James Bond,Nick,Undirected,543,,,9,verbal
+James Bond,Scaramanga,Undirected,544,,,12,verbal
+James Bond,fighter 1,Undirected,545,,,1,nonverbal
+James Bond,fighter 2,Undirected,546,,,1,nonverbal
+James Bond,fighters,Undirected,547,,,2,verbal
+James Bond,man 1,Undirected,548,,,1,nonverbal
+James Bond,man 2,Undirected,549,,,1,nonverbal
+James Bond,niece 1,Undirected,550,,,5,verbal
+James Bond,niece 2,Undirected,551,,,5,verbal
+James Bond,teacher,Undirected,552,,,1,nonverbal
+James Bond,ticket collector,Undirected,553,,,1,nonverbal
+Nick,Scaramanga,Undirected,554,,,9,verbal
+Nick,killer,Undirected,555,,,2,verbal
+Scaramanga,killer,Undirected,556,,,1,nonverbal
+fighter 2,teacher,Undirected,557,,,1,nonverbal
+fighter1,teacher,Undirected,558,,,1,nonverbal
+fighters,niece 1,Undirected,559,,,1,nonverbal
+fighters,niece 2,Undirected,560,,,1,nonverbal
+man 1,man 2,Undirected,561,,,2,verbal
+niece 1,niece 2,Undirected,562,,,5,verbal
+Andrea,James Bond,Undirected,564,,,6,verbal
+Cheew Mee,James Bond,Undirected,566,,,2,verbal
+Colthorpe,James Bond,Undirected,567,,,2,verbal
+Colthorpe,M,Undirected,568,,,1,verbal
+Colthorpe,Q,Undirected,569,,,1,verbal
+Colthorpe,Tanner,Undirected,570,,,1,verbal
+Frazier,Hip,Undirected,571,,,1,verbal
+Frazier,James Bond,Undirected,572,,,1,verbal
+Frazier,M,Undirected,573,,,1,verbal
+Frazier,Q,Undirected,574,,,1,verbal
+Gibson,barman,Undirected,576,,,1,verbal
+Goodnight,Hip,Undirected,577,,,3,verbal
+Goodnight,J.W,Undirected,578,,,1,verbal
+HK policeman 1,J.W,Undirected,581,,,2,verbal
+Hai Fat assiatant,Scaramanga,Undirected,582,,,1,verbal
+Hai Fat guard,James Bond,Undirected,583,,,1,verbal
+Hai Fat,Hai Fat people,Undirected,584,,,1,verbal
+Hai Fat,James Bond,Undirected,585,,,2,verbal
+Hai Fat,Nick,Undirected,586,,,1,verbal
+Hai Fat,Scaramanga,Undirected,587,,,2,verbal
+Hai Fat,sumo wrestler 1,Undirected,588,,,1,verbal
+Hai Fat,sumo wrestler 2,Undirected,589,,,1,verbal
+Hip,M,Undirected,591,,,3,verbal
+Hip,Nick,Undirected,592,,,1,verbal
+Hip,Q,Undirected,593,,,3,verbal
+Hip,agent MI-6,Undirected,594,,,1,verbal
+Hip,barman,Undirected,595,,,1,verbal
+Hip,chineese policeman,Undirected,596,,,1,verbal
+J.W,fighters,Undirected,600,,,1,verbal
+J.W,wife,Undirected,601,,,1,verbal
+James Bond,Lazar,Undirected,602,,,1,verbal
+James Bond,M,Undirected,603,,,6,verbal
+James Bond,Moneypenny,Undirected,604,,,2,verbal
+James Bond,Naval,Undirected,605,,,1,verbal
+James Bond,Q,Undirected,607,,,4,verbal
+James Bond,Saida,Undirected,608,,,2,verbal
+James Bond,Tanner,Undirected,610,,,1,verbal
+James Bond,agent MI-6,Undirected,611,,,1,verbal
+James Bond,boy,Undirected,612,,,1,verbal
+James Bond,desk klerk,Undirected,613,,,1,verbal
+James Bond,sumo wrestler 1,Undirected,617,,,1,verbal
+James Bond,sumo wrestler 2,Undirected,618,,,1,verbal
+James Bond,taxi driver,Undirected,619,,,1,verbal
+James Bond,taxi driver Hong Kong,Undirected,620,,,1,verbal
+James Bond,valet 1,Undirected,621,,,1,verbal
+James Bond,valet 2,Undirected,622,,,1,verbal
+James Bond,waiter,Undirected,623,,,1,verbal
+James Bond,woman,Undirected,624,,,1,verbal
+Kra,Scaramanga,Undirected,625,,,1,verbal
+M,Moneypenny,Undirected,626,,,1,verbal
+M,Tanner,Undirected,628,,,1,verbal
+M,agent MI-6,Undirected,629,,,1,verbal
+Nick,sumo wrestler 1,Undirected,632,,,2,verbal
+Nick,sumo wrestler 2,Undirected,633,,,2,verbal
+Q,agent MI-6,Undirected,634,,,1,verbal
+Scaramanga,chinese military,Undirected,635,,,1,verbal
+boy,tourist,Undirected,636,,,1,verbal
+sumo wrestler 1,sumo wrestler 2,Undirected,639,,,3,verbal
+Hai Fat,Cheew Mee,Undirected,640,,,1,context
+Goodnight,M,Undirected,641,,,1,
+teacher,fighters,Undirected,642,,,1,
