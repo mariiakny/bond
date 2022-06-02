@@ -1,0 +1,41 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;32;136;1;0.848;0.512
+2;Elektra;f;18;63;0.459;0.65;0.214
+6;Renard;m;15;29;0.207;0.619;0.142
+5;Zukovsky;m;13;36;0.259;0.6;0.061
+3;M;f;13;53;0.385;0.6;0.043
+11;Davidov;m;8;14;0.096;0.557;0.038
+4;Christmas;f;12;43;0.311;0.591;0.024
+7;Robinson;m;9;29;0.207;0.542;0.011
+9;Gabor;m;8;17;0.119;0.542;0.007
+12;Bull;m;7;13;0.089;0.534;0.007
+16;cigar girl;f;4;6;0.037;0.5;0.004
+20;sir Robert;m;4;4;0.022;0.506;0.003
+10;Moneypenny;f;7;17;0.119;0.5;0.002
+28;Renard's man;m;3;3;0.015;0.406;0.002
+18;Lachaise;m;4;6;0.037;0.481;0.001
+8;Tanner;m;6;21;0.148;0.494;0.000675
+15;R;m;5;7;0.044;0.4875;0.000337
+27;killers 1;n;3;3;0.015;0.52;0
+13;Technician;m;5;12;0.081;0.513;0
+19;killers 2;n;4;4;0.022;0.513;0
+32;dealer;m;3;3;0.015;0.506;0
+26;Renard's man 2;m;3;3;0.015;0.5;0
+21;Renard's men;n;3;4;0.022;0.494;0
+24;colonel Akakievich;m;3;4;0.022;0.494;0
+17;Molly;f;5;6;0.037;0.4875;0
+22;Nina;f;4;4;0.022;0.4875;0
+23;Vera;f;4;4;0.022;0.4875;0
+31;doctor;m;3;3;0.015;0.488;0
+35;Renard's crew;n;2;2;0.007;0.488;0
+14;Q;m;4;8;0.052;0.481;0
+25;operator;m;3;4;0.022;0.481;0
+29;Lachaise's guard 1;m;3;3;0.015;0.476;0
+30;Lachaise's guard 2;m;3;3;0.015;0.476;0
+36;Zukovsky's guard;m;2;2;0.007;0.476;0
+37;Nickolay;m;2;2;0.007;0.419;0
+34;Foreman;m;2;2;0.007;0.415;0
+38;guards;n;1;1;0;0.398;0
+39;pilot;m;1;1;0;0.398;0
+40;priest;m;1;1;0;0.398;0
+33;Arkov;m;2;2;0.007;0.39;0

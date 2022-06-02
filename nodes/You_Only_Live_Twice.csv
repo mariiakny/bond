@@ -1,0 +1,67 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;42;103;1;0.686;0.653
+8;Maike;m;7;14;0.1275;0.48;0.19
+14;dispatcher 2;m;4;7;0.0588;0.349;0.126
+15;president's Aide;m;5;7;0.0588;0.269;0.104
+2;Tanaka;m;14;39;0.3725;0.476;0.077
+4;Blofeld;m;10;21;0.1961;0.465;0.073
+13;Osato's guard;m;5;8;0.0686;0.333;0.027
+9;soviet astronaut 1;m;6;12;0.1078;0.457;0.026
+10;soviet astronaut 2;m;6;12;0.1078;0.457;0.026
+5;Brandt;m;7;19;0.1765;0.444;0.013
+11;Osato's assistant;m;7;10;0.0882;0.447;0.012
+6;Osato;m;7;18;0.1667;0.444;0.012
+7;Kissy;f;7;17;0.1569;0.437;0.01
+18;Blofeld's people;n;6;6;0.049;0.447;0.009
+3;Aki;f;8;25;0.2353;0.44;0.004
+16;M;m;5;7;0.0588;0.431;0.002
+20;Henderson;m;5;5;0.0392;0.431;0.001
+32;killers 2;n;3;3;0.0196;0.421;0.000389
+33;Sandanaiama;m;3;3;0.0196;0.415;0.000233
+34;killer;m;3;3;0.0196;0.415;0.000233
+35;capitan;m;3;3;0.0196;0.415;0.000233
+19;Q;m;4;6;0.049;0.428;0.000155
+12;japanese girl;f;5;10;0.0882;0.431;0.000117
+56;UK diplomant;m;2;2;0.0098;1;0
+57;USA diplomant;m;2;2;0.0098;1;0
+58;USSR diplomant;m;2;2;0.0098;1;0
+64;american astronaut 1;m;1;1;0;1;0
+65;american dispatcher;m;1;1;0;1;0
+66;policeman 1;m;1;1;0;1;0
+31;guards;n;4;4;0.0294;0.45;0
+25;three japanese girls;f;4;5;0.0392;0.428;0
+36;Hanz;m;2;3;0.0196;0.424;0
+22;Osato's men;n;3;5;0.0392;0.421;0
+37;Osato's secretary;f;3;3;0.0196;0.421;0
+52;waiter;m;2;2;0.0098;0.421;0
+39;Kissy's friend 1;f;3;3;0.0196;0.418;0
+40;Kissy's friend 2;f;3;3;0.0196;0.418;0
+28;chinese man 1;m;3;4;0.0294;0.415;0
+29;chinese man 2;m;3;4;0.0294;0.415;0
+38;Ling;f;3;3;0.0196;0.415;0
+53;Kissy's friend 3;f;2;2;0.0098;0.415;0
+21;Moneypenny;f;2;5;0.0392;0.413;0
+45;bald japanese man;m;2;2;0.0098;0.413;0
+46;driver 1;m;2;2;0.0098;0.413;0
+47;killer 3;m;2;2;0.0098;0.413;0
+48;diver 1;m;2;2;0.0098;0.413;0
+49;diver 2;m;2;2;0.0098;0.413;0
+50;guard 1;m;2;2;0.0098;0.413;0
+51;guard 2;m;2;2;0.0098;0.413;0
+54;lieutenant;m;2;2;0.0098;0.413;0
+55;sumo wrestler 1;m;2;2;0.0098;0.413;0
+61;killer 4;m;1;1;0;0.41;0
+23;Cris;m;3;5;0.0392;0.339;0
+24;dispatcher 1;m;3;5;0.0392;0.339;0
+17;Tanaka's people;n;3;7;0.0588;0.335;0
+62;Tanaka's man 1;m;1;1;0;0.324;0
+63;Tanaka's man 2;m;1;1;0;0.324;0
+26;Blofeld's financier 1;m;2;4;0.0294;0.321;0
+27;Blofeld's financier 2;m;2;4;0.0294;0.321;0
+43;soviet dispatcher 1;m;3;3;0.0196;0.319;0
+44;soviet dispatcher 2;m;3;3;0.0196;0.319;0
+59;Blofeld's astonaut;m;1;1;0;0.251;0
+30;millitary chief;m;3;4;0.0294;0.215;0
+41;politican;m;3;3;0.0196;0.215;0
+42;secretary of Defense;m;3;3;0.0196;0.215;0
+60;Houston dispatcher;m;1;1;0;0.213;0

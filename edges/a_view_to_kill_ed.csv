@@ -1,0 +1,140 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Aubergine,James Bond,Undirected,103,,,1,verbal
+Bond's assistant,May Day,Undirected,104,,,2,verbal
+Bond's assistant,Scarpine,Undirected,105,,,1,verbal
+Bond's assistant,Zorin,Undirected,106,,,1,verbal
+Conley's girlfriend,James Bond,Undirected,107,,,1,verbal
+Conley's girlfriend,Mortner,Undirected,108,,,1,verbal
+Conley,Conley's girlfriend,Undirected,109,,,1,verbal
+Conley,James Bond,Undirected,110,,,1,verbal
+Conley,Mortner,Undirected,111,,,1,verbal
+Conley,Zorin,Undirected,112,,,3,verbal
+Conley,technician,Undirected,113,,,1,verbal
+Foreman,James Bond,Undirected,114,,,1,verbal
+Foreman,Scarpine,Undirected,115,,,2,verbal
+Foreman,Stacey,Undirected,116,,,1,verbal
+Foreman,Zorin,Undirected,117,,,3,verbal
+Gogol,M,Undirected,118,,,1,verbal
+Gogol,Pola,Undirected,119,,,1,verbal
+Gogol,Zorin,Undirected,120,,,2,verbal
+Gogol,minister,Undirected,121,,,1,verbal
+Harris,Miller,Undirected,122,,,3,verbal
+Harris,captain,Undirected,123,,,3,verbal
+Howe,James Bond,Undirected,124,,,2,verbal
+Howe,May Day,Undirected,125,,,1,verbal
+Howe,Stacey,Undirected,126,,,3,verbal
+Howe,Zorin,Undirected,127,,,2,verbal
+James Bond,Jenny,Undirected,128,,,3,verbal
+James Bond,Kimberley,Undirected,129,,,1,verbal
+James Bond,Lee,Undirected,130,,,3,verbal
+James Bond,M,Undirected,131,,,10,verbal
+James Bond,May Day,Undirected,132,,,14,verbal
+James Bond,Moneypenny,Undirected,133,,,5,verbal
+James Bond,Mortner,Undirected,134,,,4,verbal
+James Bond,O'Rourke,Undirected,135,,,2,verbal
+James Bond,Pan Ho,Undirected,136,,,2,verbal
+James Bond,Pola,Undirected,137,,,2,verbal
+James Bond,Q,Undirected,138,,,7,verbal
+James Bond,Scarpine,Undirected,139,,,5,verbal
+James Bond,Stacey,Undirected,140,,,30,verbal
+James Bond,Tibett,Undirected,141,,,13,verbal
+James Bond,Zorin,Undirected,142,,,12,verbal
+James Bond,captain,Undirected,143,,,3,verbal
+James Bond,driver,Undirected,144,,,1,verbal
+James Bond,guard,Undirected,145,,,1,verbal
+James Bond,minister,Undirected,146,,,4,verbal
+James Bond,taxi driver,Undirected,147,,,1,verbal
+James Bond,waiter,Undirected,148,,,1,verbal
+Jenny,May Day,Undirected,149,,,5,verbal
+Jenny,Pan Ho,Undirected,150,,,6,verbal
+Jenny,Zorin,Undirected,151,,,3,verbal
+Klotkoff,Zorin,Undirected,152,,,1,verbal
+Lee,O'Rourke,Undirected,153,,,1,verbal
+Lee,Stacey,Undirected,154,,,1,verbal
+May Day,Pan Ho,Undirected,155,,,5,verbal
+May Day,Scarpine,Undirected,156,,,2,verbal
+May Day,Stacey,Undirected,157,,,8,verbal
+May Day,Tibett,Undirected,158,,,2,verbal
+May Day,Tycoons,Undirected,159,,,1,verbal
+May Day,Zorin,Undirected,160,,,15,verbal
+Miller,captain,Undirected,161,,,3,verbal
+Moneypenny,Q,Undirected,162,,,2,verbal
+Moneypenny,Tibett,Undirected,163,,,1,verbal
+Mortner,Scarpine,Undirected,164,,,3,verbal
+Mortner,Zorin,Undirected,165,,,6,verbal
+M,Moneypenny,Undirected,166,,,2,verbal
+M,Q,Undirected,167,,,7,verbal
+M,Tibett,Undirected,168,,,4,verbal
+M,minister,Undirected,169,,,5,verbal
+Pan Ho,Zorin,Undirected,170,,,3,verbal
+Q,Tibett,Undirected,171,,,3,verbal
+Q,minister,Undirected,172,,,2,verbal
+Scarpine,Tibett,Undirected,173,,,1,verbal
+Scarpine,Zorin,Undirected,174,,,13,verbal
+Scarpine,man,Undirected,175,,,2,verbal
+Stacey,Zorin,Undirected,176,,,8,verbal
+Stacey,captain,Undirected,177,,,2,verbal
+Stacey,concierge,Undirected,178,,,1,verbal
+Tycoons,Zorin,Undirected,179,,,2,verbal
+Tycoons,canadian,Undirected,180,,,1,verbal
+Tycoons,japanese,Undirected,181,,,2,verbal
+Tycoons,partners,Undirected,182,,,1,verbal
+Tycoons,taiwanese,Undirected,183,,,2,verbal
+Zorin,canadian,Undirected,184,,,2,verbal
+Zorin,japanese,Undirected,185,,,2,verbal
+Zorin,official,Undirected,186,,,1,verbal
+Zorin,partners,Undirected,187,,,1,verbal
+Zorin,taiwanese,Undirected,188,,,2,verbal
+canadian,japanese,Undirected,189,,,1,verbal
+canadian,partners,Undirected,190,,,1,verbal
+canadian,taiwanese,Undirected,191,,,1,verbal
+guard 1,guard 2,Undirected,192,,,3,verbal
+japanese,partners,Undirected,193,,,1,verbal
+japanese,taiwanese,Undirected,194,,,2,verbal
+partners,taiwanese,Undirected,195,,,1,verbal
+pilot 1,pilot 2,Undirected,196,,,2,verbal
+Aubergine,May Day,Undirected,197,,,1,nonverbal
+Bond's assistant,James Bond,Undirected,198,,,1,nonverbal
+Conley,May Day,Undirected,199,,,1,nonverbal
+Foreman,May Day,Undirected,200,,,1,nonverbal
+Gogol,Gogol's agent,Undirected,203,,,1,nonverbal
+Gogol,Jenny,Undirected,204,,,1,nonverbal
+Gogol,Klotkoff,Undirected,205,,,1,nonverbal
+Gogol,May Day,Undirected,206,,,1,nonverbal
+Gogol,Pan Ho,Undirected,207,,,1,nonverbal
+Gogol's agent,Jenny,Undirected,208,,,1,nonverbal
+Gogol's agent,Klotkoff,Undirected,209,,,1,nonverbal
+Gogol's agent,May Day,Undirected,210,,,1,nonverbal
+Gogol's agent,Pan Ho,Undirected,211,,,1,nonverbal
+Harris,James Bond,Undirected,212,,,1,nonverbal
+Harris,Stacey,Undirected,214,,,1,nonverbal
+James Bond,Miller,Undirected,218,,,1,nonverbal
+James Bond,guard 1,Undirected,226,,,1,nonverbal
+James Bond,guard 2,Undirected,227,,,1,nonverbal
+James Bond,jockeys,Undirected,228,,,1,nonverbal
+James Bond,killers,Undirected,229,,,1,nonverbal
+James Bond,pilot 1,Undirected,230,,,1,nonverbal
+James Bond,pilot 2,Undirected,231,,,1,nonverbal
+James Bond,soldiers,Undirected,232,,,1,nonverbal
+Jenny,Klotkoff,Undirected,233,,,1,nonverbal
+Jenny,Stacey,Undirected,236,,,1,nonverbal
+Jenny,Tibett,Undirected,237,,,1,nonverbal
+Klotkoff,May Day,Undirected,239,,,1,nonverbal
+Klotkoff,Pan Ho,Undirected,240,,,1,nonverbal
+Lee,May Day,Undirected,241,,,1,nonverbal
+May Day,waiter,Undirected,247,,,1,nonverbal
+Miller,Stacey,Undirected,248,,,1,nonverbal
+Mortner,Stacey,Undirected,250,,,2,nonverbal
+Pan Ho,Scarpine,Undirected,252,,,1,nonverbal
+Pan Ho,Stacey,Undirected,253,,,1,nonverbal
+Scarpine,jockeys,Undirected,256,,,1,nonverbal
+Stacey,killers,Undirected,259,,,1,nonverbal
+Tibett,guard 1,Undirected,260,,,1,nonverbal
+Tibett,guard 2,Undirected,261,,,1,nonverbal
+Zorin,jockeys,Undirected,262,,,1,nonverbal
+pilot 1,soldiers,Undirected,265,,,1,nonverbal
+pilot 2,soldiers,Undirected,266,,,1,nonverbal
+Zorin,concierge,Undirected,267,,,1,context
+Zorin,guard 1,Undirected,268,,,1,context
+Zorin,guard 2,Undirected,269,,,1,context
+Zorin,killers,Undirected,270,,,1,context

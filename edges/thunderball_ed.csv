@@ -1,0 +1,141 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+00 agents,James Bond,Undirected,0,,,1,verbal
+00 agents,John,Undirected,1,,,1,verbal
+00 agents,M,Undirected,2,,,1,verbal
+00 agents,minister,Undirected,3,,,1,verbal
+Angelo,Fiona,Undirected,4,,,1,verbal
+Angelo,Lippe,Undirected,5,,,1,verbal
+Angelo,air commander,Undirected,6,,,2,verbal
+Angelo,security officer,Undirected,7,,,1,verbal
+Blofeld,Largo,Undirected,8,,,3,verbal
+Blofeld,number eleven,Undirected,9,,,1,verbal
+Blofeld,number five,Undirected,10,,,1,verbal
+Blofeld,number seven,Undirected,11,,,1,verbal
+Blofeld,number ten,Undirected,12,,,1,verbal
+Boitier,James Bond,Undirected,13,,,1,verbal
+Boitier's man 1,Boitier's man 2,Undirected,14,,,3,verbal
+Dominique,James Bond,Undirected,15,,,14,verbal
+Dominique,Kutze,Undirected,16,,,3,verbal
+Dominique,Largo,Undirected,17,,,9,verbal
+Dominique,Paula,Undirected,18,,,1,verbal
+Dominique,croupier,Undirected,19,,,1,verbal
+Fiona,James Bond,Undirected,20,,,5,verbal
+Fiona,Janni,Undirected,21,,,1,verbal
+Fiona,Largo,Undirected,22,,,1,verbal
+Fiona,Largo's man,Undirected,23,,,1,verbal
+Fiona,Largo's men,Undirected,24,,,1,verbal
+Fiona,Lippe,Undirected,25,,,3,verbal
+Fiona,Palazzi,Undirected,26,,,1,verbal
+Fiona,Paula,Undirected,27,,,1,verbal
+Fiona,girl,Undirected,28,,,1,verbal
+James Bond,Janni,Undirected,29,,,1,verbal
+James Bond,John,Undirected,30,,,1,verbal
+James Bond,Kutze,Undirected,31,,,2,verbal
+James Bond,La Porte,Undirected,32,,,3,verbal
+James Bond,Largo,Undirected,33,,,11,verbal
+James Bond,Largo's men,Undirected,34,,,3,verbal
+James Bond,Leiter,Undirected,35,,,11,verbal
+James Bond,Lippe,Undirected,36,,,4,verbal
+James Bond,M,Undirected,37,,,5,verbal
+James Bond,Moneypenny,Undirected,38,,,4,verbal
+James Bond,Patricia,Undirected,39,,,8,verbal
+James Bond,Paula,Undirected,40,,,5,verbal
+James Bond,Pinder,Undirected,41,,,6,verbal
+James Bond,Q,Undirected,42,,,1,verbal
+James Bond,Quist,Undirected,43,,,1,verbal
+James Bond,Vargas,Undirected,44,,,3,verbal
+James Bond,croupier,Undirected,45,,,2,verbal
+James Bond,girl,Undirected,46,,,3,verbal
+James Bond,group capital,Undirected,47,,,1,verbal
+James Bond,minister,Undirected,48,,,1,verbal
+Janni,Largo,Undirected,49,,,2,verbal
+Janni,Largo's man,Undirected,50,,,2,verbal
+Janni,Paula,Undirected,51,,,1,verbal
+Janni,Vargas,Undirected,52,,,2,verbal
+John,M,Undirected,53,,,1,verbal
+John,minister,Undirected,54,,,1,verbal
+Kenniston,minister,Undirected,55,,,1,verbal
+Kutze,Largo,Undirected,56,,,3,verbal
+Kutze,Paula,Undirected,57,,,1,verbal
+Kutze,Vargas,Undirected,58,,,1,verbal
+Largo,Largo's capitan,Undirected,59,,,1,verbal
+Largo,Largo's men,Undirected,60,,,4,verbal
+Largo,Quist,Undirected,61,,,1,verbal
+Largo,Vargas,Undirected,62,,,4,verbal
+Largo,croupier,Undirected,63,,,1,verbal
+Largo,engineer 1,Undirected,64,,,1,verbal
+Largo,engineer 2,Undirected,65,,,1,verbal
+Largo,french policeman,Undirected,66,,,1,verbal
+Largo,girl assistant,Undirected,67,,,1,verbal
+Largo's man,Paula,Undirected,68,,,1,verbal
+Largo's men,Vargas,Undirected,69,,,2,verbal
+Leiter,Paula,Undirected,70,,,4,verbal
+Leiter,Pinder,Undirected,71,,,8,verbal
+Leiter,operator,Undirected,72,,,2,verbal
+Leiter,pilot,Undirected,73,,,1,verbal
+Lippe,Lippe's man 1,Undirected,74,,,2,verbal
+Lippe,Lippe's man 2,Undirected,75,,,2,verbal
+Lippe,Patricia,Undirected,76,,,1,verbal
+Lippe's man 1,Lippe's man 2,Undirected,77,,,2,verbal
+Moneypenny,minister,Undirected,78,,,1,verbal
+M,Moneypenny,Undirected,79,,,2,verbal
+M,group capital,Undirected,80,,,1,verbal
+M,minister,Undirected,81,,,3,verbal
+Paula,Pinder,Undirected,82,,,4,verbal
+Paula,Vargas,Undirected,83,,,1,verbal
+Pinder,operator,Undirected,84,,,2,verbal
+air commander,crew,Undirected,85,,,1,verbal
+air commander,security officer,Undirected,86,,,1,verbal
+air vice marshall,officer,Undirected,87,,,1,verbal
+co-pilot,navigator,Undirected,89,,,1,verbal
+co-pilot,pilot,Undirected,90,,,1,verbal
+navigator,pilot,Undirected,91,,,1,verbal
+Angelo,James Bond,Undirected,92,,,1,nonverbal
+Angelo,Largo,Undirected,93,,,1,nonverbal
+Angelo,Palazzi,Undirected,94,,,1,nonverbal
+Angelo,crew,Undirected,95,,,1,nonverbal
+Blofeld,number nine,Undirected,96,,,1,nonverbal
+Boitier's man 1,Boitier's man 3,Undirected,98,,,1,nonverbal
+Boitier's man 1,James Bond,Undirected,99,,,2,nonverbal
+Boitier's man 1,La Porte,Undirected,100,,,1,nonverbal
+Boitier's man 2,Boitier's man 3,Undirected,101,,,1,nonverbal
+Boitier's man 2,James Bond,Undirected,102,,,2,nonverbal
+Boitier's man 2,La Porte,Undirected,103,,,1,nonverbal
+Boitier's man 3,James Bond,Undirected,104,,,1,nonverbal
+Boitier's man 3,La Porte,Undirected,105,,,1,nonverbal
+Dominique,Leiter,Undirected,108,,,1,nonverbal
+James Bond,Largo's capitan,Undirected,111,,,1,nonverbal
+James Bond,Lippe's man 1,Undirected,114,,,2,nonverbal
+James Bond,Lippe's man 2,Undirected,115,,,1,nonverbal
+Largo,number eleven,Undirected,117,,,2,nonverbal
+Largo,number five,Undirected,118,,,2,nonverbal
+Largo,number nine,Undirected,119,,,2,nonverbal
+Largo,number seven,Undirected,120,,,2,nonverbal
+Largo,number ten,Undirected,121,,,2,nonverbal
+Leiter,Q,Undirected,124,,,1,nonverbal
+Leiter,Quist,Undirected,125,,,1,nonverbal
+Paula,Q,Undirected,130,,,1,nonverbal
+Pinder,Q,Undirected,131,,,1,nonverbal
+number eleven,number five,Undirected,132,,,2,nonverbal
+number eleven,number nine,Undirected,133,,,2,nonverbal
+number eleven,number seven,Undirected,134,,,2,nonverbal
+number eleven,number ten,Undirected,135,,,2,nonverbal
+number five,number nine,Undirected,136,,,2,nonverbal
+number five,number seven,Undirected,137,,,2,nonverbal
+number five,number ten,Undirected,138,,,2,nonverbal
+number nine,number seven,Undirected,139,,,2,nonverbal
+number nine,number ten,Undirected,140,,,2,nonverbal
+number seven,number ten,Undirected,141,,,2,nonverbal
+Blofeld,Boitier,Undirected,142,,,1,context
+Blofeld,Fiona,Undirected,143,,,1,context
+Boitier,Largo,Undirected,144,,,1,context
+Boitier,number eleven,Undirected,145,,,1,context
+Boitier,number five,Undirected,146,,,1,context
+Boitier,number nine,Undirected,147,,,1,context
+Boitier,number seven,Undirected,148,,,1,context
+Boitier,number ten,Undirected,149,,,1,context
+Largo,Lippe,Undirected,150,,,1,context
+Moneypenny,Q,Undirected,156,,,1,context
+M,Paula,Undirected,157,,,1,context
+M,Q,Undirected,158,,,1,context
+air vice marshall,guards,Undirected,844,,,1,verbal

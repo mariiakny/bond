@@ -1,45 +1,44 @@
-Id,Label,timeset,gender,degree,weighted degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,componentnumber,modularity_class,clustering,triangles,eigencentrality
-4 women,4 women,,f,6,6,4,0.465909,0.528455,0,0,3,1,15,0.441204
-Drax,Drax,,m,18,42,4,0.585714,0.697154,191.566667,0,2,0.196078,30,0.784916
-false doctor,false doctor,,m,3,3,4,0.450549,0.49187,0,0,2,1,3,0.2718
-man 1,man 1,,m,2,3,5,0.376147,0.419512,0,0,0,1,1,0.113379
-man 2,man 2,,m,2,3,5,0.376147,0.419512,0,0,0,1,1,0.113379
-Laws,Laws,,m,9,19,4,0.506173,0.579268,128.5,0,2,0.222222,8,0.386767
-hostess,hostess,,f,3,5,4,0.450549,0.489837,0,0,1,1,3,0.203379
-pilot with moustache,pilot with moustache,,m,3,4,4,0.450549,0.489837,0,0,1,1,3,0.203379
-Delatie,Delatie,,f,6,8,4,0.465909,0.528455,0,0,3,1,15,0.441204
-Delimateo,Delimateo,,f,6,8,4,0.465909,0.528455,0,0,3,1,15,0.441204
-James Bond,James Bond,,m,28,90,3,0.732143,0.833333,538.433333,0,2,0.10582,40,1
-Lybinski,Lybinski,,f,6,8,4,0.465909,0.528455,0,0,3,1,15,0.441204
-Victoria,Victoria,,f,6,8,4,0.465909,0.528455,0,0,3,1,15,0.441204
-Chang,Chang,,m,4,8,4,0.460674,0.50813,40,0,2,0.5,3,0.27751
-Drax'crew,Drax'crew,,n,2,2,5,0.344538,0.382927,40,0,4,0,0,0.052881
-american soldiers,american soldiers,,n,1,1,6,0.257862,0.281301,0,0,4,0,0,0.008466
-hunter,hunter,,m,2,2,4,0.445652,0.479675,0,0,2,1,1,0.224994
-Franco,Franco,,m,2,3,4,0.431579,0.46748,0,0,2,1,1,0.146156
-killers 1,killers 1,,n,2,2,4,0.431579,0.46748,0,0,2,1,1,0.146156
-Holly,Holly,,f,6,25,3,0.506173,0.552846,26.666667,0,2,0.533333,8,0.369286
-killers 2,killers 2,,n,2,2,4,0.445652,0.477642,0,0,2,1,1,0.17692
-scientist 1,scientist 1,,m,2,3,4,0.431579,0.46748,0,0,5,1,1,0.146156
-scientist 2,scientist 2,,m,2,3,4,0.431579,0.46748,0,0,5,1,1,0.146156
-Laws's girlfriend,Laws's girlfriend,,f,1,2,5,0.338843,0.366667,0,0,2,0,0,0.050079
-Manuela,Manuela,,f,2,3,4,0.445652,0.477642,0,0,2,1,1,0.17692
-Cavendish,Cavendish,,m,3,3,4,0.450549,0.49187,0,0,2,1,3,0.257473
-Corinne,Corinne,,f,3,9,4,0.450549,0.49187,0,0,2,1,3,0.257473
-instructor,instructor,,m,1,1,5,0.317829,0.341057,0,0,2,0,0,0.035324
-Gray,Gray,,m,5,13,4,0.476744,0.528455,16.066667,0,6,0.7,7,0.315926
-M,M,,m,7,19,4,0.488095,0.552846,60.566667,0,6,0.380952,8,0.341329
-operator,operator,,m,1,4,5,0.372727,0.407317,0,0,2,0,0,0.098154
-Gogol,Gogol,,m,2,2,5,0.322835,0.356504,40,0,8,0,0,0.027204
-Scott,Scott,,m,4,4,4,0.460674,0.506098,116,0,2,0.166667,1,0.183779
-Q,Q,,m,5,12,4,0.460674,0.51626,48.2,0,6,0.5,5,0.232756
-american diplomats,american diplomats,,n,3,3,5,0.338843,0.385772,0,0,6,1,3,0.115375
-Moneypenny,Moneypenny,,f,2,3,4,0.44086,0.47561,0,0,2,1,1,0.170983
-blondie woman,blondie woman,,f,1,1,4,0.427083,0.455285,0,0,2,0,0,0.126841
-valet,valet,,m,1,1,4,0.427083,0.455285,0,0,2,0,0,0.126841
-minister,minister,,m,1,1,5,0.330645,0.357317,0,0,6,0,0,0.044142
-Q's assistant,Q's assistant,,m,1,1,5,0.317829,0.343089,0,0,6,0,0,0.030796
-american astranaout 2,american astranaout 2,,m,1,1,5,0.317829,0.340244,0,0,2,0,0,0.024708
-pilot 1,pilot 1,,m,1,1,1,1,1,0,1,7,0,0,0.002062
-pilot 2,pilot 2,,m,1,1,1,1,1,0,1,7,0,0,0.002062
-0,woman,,,1,1,6,0.245509,0.26748,0,0,8,0,0,0.005487
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;28;90;1;0.755;0.589
+2;Drax;m;18;42;0.461;0.606;0.219
+4;Laws;m;9;19;0.202;0.519;0.146
+16;Scott;m;4;4;0.034;0.46;0.089
+5;M;m;7;19;0.202;0.5;0.067
+6;Q;m;6;13;0.135;0.476;0.055
+13;Chang;m;4;8;0.079;0.471;0.045
+29;Drax'crew;n;2;2;0.011;0.351;0.045
+3;Holly;f;6;25;0.27;0.513;0.025
+7;Gray;m;5;13;0.135;0.488;0.018
+41;pilot 1;m;1;1;0;1;0
+42;pilot 2;m;1;1;0;1;0
+9;Delatie;f;6;8;0.079;0.476;0
+10;Delimateo;f;6;8;0.079;0.476;0
+11;Lybinski;f;6;8;0.079;0.476;0
+12;Victoria;f;6;8;0.079;0.476;0
+14;4 women;f;6;6;0.056;0.476;0
+8;Corinne;f;3;9;0.09;0.46;0
+15;hostess;f;3;5;0.045;0.46;0
+17;Moneypenny;f;3;4;0.034;0.46;0
+18;pilot with moustache;m;3;4;0.034;0.46;0
+20;Cavendish;m;3;3;0.022;0.46;0
+22;false doctor;m;3;3;0.022;0.46;0
+24;Manuela;f;2;3;0.022;0.455;0
+30;hunter;m;2;2;0.011;0.455;0
+32;killers 2;n;2;2;0.011;0.455;0
+23;Franco;m;2;3;0.022;0.44;0
+25;scientist 1;m;2;3;0.022;0.44;0
+26;scientist 2;m;2;3;0.022;0.44;0
+31;killers 1;n;2;2;0.011;0.44;0
+36;blondie woman;f;1;1;0;0.435;0
+37;valet;m;1;1;0;0.435;0
+27;man 1;m;2;3;0.022;0.385;0
+28;man 2;m;2;3;0.022;0.385;0
+19;operator;m;1;4;0.034;0.381;0
+21;american diplomats;m;3;3;0.022;0.345;0
+33;Laws's girlfriend;f;1;2;0.011;0.345;0
+38;minister;m;1;1;0;0.336;0
+39;Q's assistant;m;1;1;0;0.325;0
+34;instructor;m;1;1;0;0.323;0
+35;Gogol;m;1;1;0;0.317;0
+40;american astranaout 2;m;1;1;0;0.317;0
+43;american soldiers;n;1;1;0;0.261;0

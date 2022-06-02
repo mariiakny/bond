@@ -1,0 +1,187 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Bill,James Bond,Undirected,378,,,2,verbal
+Bill,Killifer,Undirected,379,,,1,verbal
+Bill,Krest,Undirected,380,,,2,verbal
+Braun,Heller,Undirected,381,,,1,verbal
+Braun,Perez,Undirected,382,,,7,verbal
+Braun,Sanchez,Undirected,383,,,5,verbal
+Braun,Truman-Lodge,Undirected,384,,,2,verbal
+Dario,Della,Undirected,385,,,1,verbal
+Dario,Heller,Undirected,386,,,1,verbal
+Dario,James Bond,Undirected,387,,,7,verbal
+Dario,Kwang group,Undirected,388,,,2,verbal
+Dario,Leiter,Undirected,389,,,4,verbal
+Dario,Pam,Undirected,390,,,3,verbal
+Dario,Sanchez,Undirected,391,,,10,verbal
+Dario,Sanchez's men,Undirected,392,,,6,verbal
+Dario,Truman-Lodge,Undirected,393,,,2,verbal
+Dario,chemist,Undirected,394,,,1,verbal
+Della,James Bond,Undirected,395,,,5,verbal
+Della,Leiter,Undirected,396,,,6,verbal
+Della,Sanchez's men,Undirected,397,,,1,verbal
+Della,Sharky,Undirected,398,,,3,verbal
+Della,uncle,Undirected,399,,,2,verbal
+Fallon,James Bond,Undirected,400,,,1,verbal
+Fallon,Kwang,Undirected,401,,,1,verbal
+Fallon,Loti,Undirected,402,,,1,verbal
+Hawkins,James Bond,Undirected,403,,,10,verbal
+Hawkins,Killifer,Undirected,404,,,1,verbal
+Hawkins,Leiter,Undirected,405,,,8,verbal
+Hawkins,Mullens,Undirected,406,,,7,verbal
+Hawkins,Sanchez,Undirected,407,,,2,verbal
+Heller,James Bond,Undirected,408,,,2,verbal
+Heller,Krest,Undirected,409,,,1,verbal
+Heller,Kwang,Undirected,410,,,3,verbal
+Heller,Kwang group,Undirected,411,,,2,verbal
+Heller,Lopez,Undirected,412,,,1,verbal
+Heller,Lupe,Undirected,413,,,2,verbal
+Heller,Perez,Undirected,414,,,1,verbal
+Heller,Sanchez,Undirected,415,,,16,verbal
+Heller,Truman-Lodge,Undirected,416,,,5,verbal
+James Bond,Killifer,Undirected,417,,,2,verbal
+James Bond,Krest,Undirected,418,,,1,verbal
+James Bond,Kwang,Undirected,419,,,1,verbal
+James Bond,Kwang group,Undirected,420,,,4,verbal
+James Bond,Leiter,Undirected,421,,,20,verbal
+James Bond,Lopez,Undirected,422,,,1,verbal
+James Bond,Loti,Undirected,423,,,1,verbal
+James Bond,Lupe,Undirected,424,,,10,verbal
+James Bond,M,Undirected,425,,,1,verbal
+James Bond,Montolongo,Undirected,426,,,5,verbal
+James Bond,Montolongo's assistant girl,Undirected,427,,,2,verbal
+James Bond,Mullens,Undirected,428,,,6,verbal
+James Bond,Pam,Undirected,429,,,31,verbal
+James Bond,Q,Undirected,430,,,9,verbal
+James Bond,Rasmussen,Undirected,431,,,1,verbal
+James Bond,Sanchez,Undirected,432,,,17,verbal
+James Bond,Sharky,Undirected,433,,,8,verbal
+James Bond,Truman-Lodge,Undirected,434,,,4,verbal
+James Bond,assistant manager,Undirected,435,,,2,verbal
+James Bond,barman,Undirected,436,,,1,verbal
+James Bond,casino manger,Undirected,437,,,1,verbal
+James Bond,chemist,Undirected,438,,,1,verbal
+James Bond,concierge,Undirected,439,,,1,verbal
+James Bond,dealer,Undirected,440,,,3,verbal
+James Bond,diver,Undirected,441,,,1,verbal
+James Bond,doctor,Undirected,442,,,1,verbal
+James Bond,girl waiter,Undirected,443,,,1,verbal
+James Bond,woman registrator,Undirected,444,,,1,verbal
+Joe,Pam,Undirected,445,,,3,verbal
+Joe,Truman-Lodge,Undirected,446,,,1,verbal
+Killifer,Krest,Undirected,447,,,1,verbal
+Killifer,Leiter,Undirected,448,,,3,verbal
+Killifer,Sanchez,Undirected,449,,,4,verbal
+Krest,Lupe,Undirected,450,,,5,verbal
+Krest,Sanchez,Undirected,451,,,6,verbal
+Krest,capitan 2,Undirected,452,,,1,verbal
+Krest,captain,Undirected,453,,,2,verbal
+Krest,captain's assistant,Undirected,454,,,1,verbal
+Krest,crew,Undirected,456,,,3,verbal
+Krest,crewman 1,Undirected,457,,,1,verbal
+Krest,diver,Undirected,458,,,1,verbal
+Krest,radio operator 2,Undirected,459,,,1,verbal
+Kwang group,Sanchez,Undirected,460,,,6,verbal
+Kwang group,Truman-Lodge,Undirected,461,,,8,verbal
+Kwang group,chemist,Undirected,462,,,1,verbal
+Kwang,Kwang group,Undirected,463,,,2,verbal
+Kwang,Loti,Undirected,464,,,2,verbal
+Kwang,Sanchez,Undirected,465,,,3,verbal
+Kwang,Truman-Lodge,Undirected,466,,,2,verbal
+Leiter,Mullens,Undirected,467,,,8,verbal
+Leiter,Pam,Undirected,468,,,1,verbal
+Leiter,Sanchez,Undirected,469,,,3,verbal
+Leiter,Sanchez's men,Undirected,470,,,3,verbal
+Leiter,Sharky,Undirected,471,,,3,verbal
+Leiter,pilots,Undirected,472,,,2,verbal
+Lopez,Lupe,Undirected,473,,,1,verbal
+Lopez,Sanchez,Undirected,474,,,1,verbal
+Lopez,Truman-Lodge,Undirected,475,,,1,verbal
+Lupe,Pam,Undirected,476,,,1,verbal
+Lupe,Q,Undirected,477,,,1,verbal
+Lupe,Sanchez,Undirected,478,,,10,verbal
+Lupe,dock guard,Undirected,479,,,1,verbal
+Montolongo's assistant girl,Pam,Undirected,480,,,1,verbal
+Montolongo,Montolongo's assistant girl,Undirected,481,,,2,verbal
+Montolongo,Pam,Undirected,482,,,2,verbal
+M,Moneypenny,Undirected,483,,,1,verbal
+Pam,Q,Undirected,484,,,11,verbal
+Pam,assistant manager,Undirected,485,,,1,verbal
+Pam,captain,Undirected,486,,,1,verbal
+Pam,captain 2,Undirected,487,,,1,verbal
+Pam,casino manger,Undirected,488,,,1,verbal
+Pam,dealer,Undirected,489,,,2,verbal
+Pam,girl waiter,Undirected,490,,,1,verbal
+Pam,guard,Undirected,491,,,1,verbal
+Pam,mechanic,Undirected,492,,,1,verbal
+Perez,Sanchez,Undirected,493,,,9,verbal
+Perez,Truman-Lodge,Undirected,494,,,2,verbal
+Rasmussen,Sharky,Undirected,495,,,1,verbal
+Sanchez,Sanchez's men,Undirected,496,,,1,verbal
+Sanchez,Truman-Lodge,Undirected,497,,,15,verbal
+Sanchez,casino manger,Undirected,498,,,2,verbal
+Sanchez,chemist,Undirected,499,,,1,verbal
+Sanchez,driver,Undirected,500,,,3,verbal
+Sanchez,truck driver 1,Undirected,501,,,1,verbal
+Sanchez,truck driver 2,Undirected,502,,,2,verbal
+Sanchez,waiter,Undirected,503,,,1,verbal
+Sharky,doctor,Undirected,504,,,1,verbal
+Sharky,uncle,Undirected,505,,,2,verbal
+Truman-Lodge,casino manger,Undirected,506,,,1,verbal
+Truman-Lodge,chemist,Undirected,507,,,2,verbal
+captain,captain's assistant,Undirected,508,,,2,verbal
+casino manger,dealer,Undirected,509,,,1,verbal
+crewman 1,crewman 2,Undirected,510,,,1,verbal
+duty officer,radar operator,Undirected,511,,,1,verbal
+pilot 1,pilot 2,Undirected,512,,,3,verbal
+Braun,James Bond,Undirected,513,,,2,nonverbal
+Braun,Krest,Undirected,514,,,1,nonverbal
+Braun,Lupe,Undirected,515,,,1,nonverbal
+Braun,Pam,Undirected,516,,,1,nonverbal
+Dario,Hawkins,Undirected,519,,,2,nonverbal
+Dario,Lupe's lover,Undirected,522,,,1,nonverbal
+Dario,Mullens,Undirected,523,,,2,nonverbal
+Hawkins,M's men,Undirected,529,,,1,nonverbal
+Hawkins,Sanchez's men,Undirected,532,,,2,nonverbal
+Hawkins,Sharky,Undirected,533,,,2,nonverbal
+Hawkins,pilots,Undirected,534,,,1,nonverbal
+Heller,Loti,Undirected,535,,,1,nonverbal
+Heller,Pam,Undirected,536,,,1,nonverbal
+James Bond,M's men,Undirected,538,,,2,nonverbal
+James Bond,Perez,Undirected,541,,,3,nonverbal
+James Bond,Sanchez's men,Undirected,543,,,2,nonverbal
+James Bond,crew,Undirected,546,,,1,nonverbal
+James Bond,crewman 2,Undirected,547,,,1,nonverbal
+James Bond,pilot 1,Undirected,548,,,1,nonverbal
+James Bond,pilot 2,Undirected,549,,,1,nonverbal
+James Bond,pilots,Undirected,550,,,1,nonverbal
+James Bond,second guard,Undirected,551,,,1,nonverbal
+James Bond,truck driver 1,Undirected,552,,,1,nonverbal
+James Bond,truck driver 2,Undirected,553,,,1,nonverbal
+Killifer,Sharky,Undirected,555,,,1,nonverbal
+Killifer,divers,Undirected,556,,,1,nonverbal
+Killifer,driver,Undirected,557,,,1,nonverbal
+Krest,Perez,Undirected,559,,,1,nonverbal
+Krest,pilot 1,Undirected,561,,,1,nonverbal
+Krest,pilot 2,Undirected,562,,,1,nonverbal
+Lupe's lover,Sanchez's men,Undirected,568,,,1,nonverbal
+Lupe,Lupe's lover,Undirected,569,,,1,nonverbal
+Lupe,Perez,Undirected,570,,,1,nonverbal
+Mullens,Sanchez,Undirected,572,,,1,nonverbal
+Mullens,Sanchez's men,Undirected,573,,,2,nonverbal
+Mullens,Sharky,Undirected,574,,,1,nonverbal
+Mullens,pilots,Undirected,575,,,1,nonverbal
+Pam,Perez,Undirected,576,,,1,nonverbal
+Pam,Sanchez's men,Undirected,577,,,1,nonverbal
+Sanchez,divers,Undirected,580,,,1,nonverbal
+Sanchez,pilots,Undirected,581,,,1,nonverbal
+driver,truck driver 1,Undirected,582,,,1,nonverbal
+Bill,second guard,Undirected,585,,,1,context
+Krest,second guard,Undirected,587,,,1,context
+Leiter,M,Undirected,588,,,1,context
+Moneypenny,Q,Undirected,589,,,1,context
+M,M's men,Undirected,590,,,1,context
+Sanchez,dock guard,Undirected,591,,,1,context
+Sanchez,guard,Undirected,592,,,1,context
+Sanchez,mechanic,Undirected,593,,,1,context
+Sharky,diver,Undirected,594,,,1,context
+M,Q,Undirected,595,,,1,context

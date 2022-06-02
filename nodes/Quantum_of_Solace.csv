@@ -1,0 +1,57 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;43;120;1;0.821;0.751
+2;Dominic;m;17;50;0.412;0.573;0.074
+4;Camille;f;13;39;0.319;0.545;0.08
+11;Carlos;m;9;15;0.118;0.529;0.051
+9;Haines;m;9;17;0.134;0.524;0.017
+3;M;f;11;48;0.395;0.514;0.055
+6;Mathis;m;7;22;0.176;0.514;0.043
+10;White;m;9;17;0.134;0.514;0.043
+14;Strawberry;f;7;13;0.101;0.514;0.043
+5;Tanner;m;6;29;0.235;0.505;0.007
+15;Karakin;m;5;9;0.067;0.491;0
+16;Quantum members;n;5;9;0.067;0.491;0
+13;Leiter;m;5;14;0.109;0.487;0.009
+30;Medrano's guards;n;3;3;0.017;0.487;0.003
+32;pilot 1;m;3;3;0.017;0.487;0
+33;pilot 2;m;3;3;0.017;0.487;0
+18;Mitchel;m;4;9;0.067;0.478;0
+28;MI6 agent 1;m;4;4;0.025;0.478;0
+44;Medrano's soldiers;n;2;2;0.008;0.478;0
+17;MI6 agent 2;m;4;9;0.067;0.474;0
+19;MI6 agent 4;m;4;6;0.042;0.474;0.000224
+26;MI6 agent 3;m;4;4;0.025;0.474;0
+36;Dominic's guard;m;2;2;0.008;0.474;0.002
+39;salesman;m;2;2;0.008;0.474;0
+45;Slate;m;2;2;0.008;0.474;0
+23;MI6 agent 5;m;3;5;0.034;0.47;0
+29;bolivian receptionist 2;m;2;3;0.017;0.466;0
+37;Haines' guard;m;2;2;0.008;0.466;0
+42;CIA agents;n;2;2;0.008;0.466;0
+25;Gemma;f;2;4;0.025;0.462;0
+38;barman;m;2;2;0.008;0.462;0
+41;man with glasses;m;2;2;0.008;0.462;0.036
+21;Corrine;f;2;5;0.034;0.458;0
+22;Yusef;m;2;5;0.034;0.458;0
+27;bolivian policeman 1;m;2;4;0.025;0.458;0
+31;bolivian policeman 2;m;2;3;0.017;0.458;0
+34;killers 1;n;2;3;0.017;0.458;0
+46;italien police;n;2;2;0.008;0.458;0
+47;clerk girl;f;1;1;0;0.455;0
+48;driver;m;1;1;0;0.455;0
+49;killer;m;1;1;0;0.455;0
+50;receptionist;m;1;1;0;0.455;0
+55;killers;n;1;1;0;0.455;0
+56;killers 2;n;1;1;0;0.455;0
+8;Elvis;m;10;18;0.143;0.437;0.017
+7;Medrano;m;9;20;0.16;0.417;0.018
+12;Beam;m;4;14;0.109;0.407;0.004
+20;investors;n;3;5;0.034;0.393;0
+24;bolivian girl;f;3;4;0.025;0.372;0.000112
+43;Medrano's guard;m;2;2;0.008;0.364;0
+35;Medrano's soldier;m;2;2;0.008;0.357;0
+40;bolivian taxi driver;m;1;2;0.008;0.342;0
+51;foreign secretary;m;1;1;0;0.342;0
+52;bolivian receptionist 1;m;1;1;0;0.342;0
+53;White's girlfriend;f;1;1;0;0.342;0
+54;hostess;f;1;1;0;0.318;0

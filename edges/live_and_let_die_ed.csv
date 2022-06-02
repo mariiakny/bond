@@ -1,0 +1,100 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Adam,Billy,Undirected,845,,,1,verbal
+Adam,James Bond,Undirected,846,,,2,verbal
+Adam,Kananga's people,Undirected,847,,,2,verbal
+Adam,Pepper,Undirected,848,,,1,verbal
+Adam,Solitaire,Undirected,849,,,1,verbal
+Adam,Tee-Hee,Undirected,850,,,2,verbal
+Bell,James Bond,Undirected,851,,,1,verbal
+Billy,Pepper,Undirected,852,,,2,verbal
+Bleeker,Leiter,Undirected,853,,,1,verbal
+Boatman,Rosie,Undirected,854,,,1,verbal
+Charlie,James Bond,Undirected,855,,,2,verbal
+Charlie,Leiter,Undirected,856,,,1,verbal
+Hamilton,black gentleman,Undirected,857,,,1,verbal
+James Bond,Kananga,Undirected,858,,,8,verbal
+James Bond,Kananga's man 3,Undirected,859,,,1,verbal
+James Bond,Leiter,Undirected,860,,,11,verbal
+James Bond,M,Undirected,861,,,2,verbal
+James Bond,Moneypenny,Undirected,862,,,2,verbal
+James Bond,Pepper,Undirected,863,,,1,verbal
+James Bond,Quarrel,Undirected,864,,,6,verbal
+James Bond,Rosie,Undirected,865,,,6,verbal
+James Bond,Solitaire,Undirected,866,,,14,verbal
+James Bond,Strutter,Undirected,867,,,2,verbal
+James Bond,Tailor,Undirected,868,,,1,verbal
+James Bond,Tee-Hee,Undirected,869,,,4,verbal
+James Bond,Whisper,Undirected,870,,,2,verbal
+James Bond,driver,Undirected,871,,,3,verbal
+James Bond,girl,Undirected,872,,,2,verbal
+James Bond,official,Undirected,873,,,1,verbal
+James Bond,performer,Undirected,874,,,2,verbal
+James Bond,salesgirl,Undirected,875,,,1,verbal
+James Bond,waiter,Undirected,876,,,2,verbal
+Kananga,Kananga's man 3,Undirected,877,,,1,verbal
+Kananga,Solitaire,Undirected,878,,,9,verbal
+Kananga,Tee-Hee,Undirected,879,,,6,verbal
+Kananga,Whisper,Undirected,880,,,4,verbal
+Kananga's man 2,salesgirl,Undirected,881,,,1,verbal
+Leiter,Leiter's man,Undirected,882,,,2,verbal
+Leiter,Pepper,Undirected,883,,,1,verbal
+Leiter,Quarrel,Undirected,884,,,3,verbal
+Leiter,Strutter,Undirected,885,,,1,verbal
+Leiter,capitan,Undirected,886,,,1,verbal
+Leiter,waiter,Undirected,887,,,1,verbal
+M,Moneypenny,Undirected,888,,,2,verbal
+Pepper,Toby,Undirected,889,,,3,verbal
+Pepper,capitan,Undirected,890,,,1,verbal
+Pepper,trooper,Undirected,891,,,2,verbal
+Quarrel,Rosie,Undirected,892,,,3,verbal
+Solitaire,Tee-Hee,Undirected,893,,,3,verbal
+Solitaire,performer,Undirected,894,,,2,verbal
+Tee-Hee,performer,Undirected,895,,,1,verbal
+Tee-Hee,pilot,Undirected,896,,,1,verbal
+Tee-Hee,police,Undirected,897,,,1,verbal
+Tee-Hee,white-coated worker,Undirected,898,,,1,verbal
+Toby,trooper,Undirected,899,,,1,verbal
+bride,groom,Undirected,900,,,2,verbal
+bride,priest,Undirected,901,,,2,verbal
+groom,priest,Undirected,902,,,2,verbal
+Adam,bride,Undirected,906,,,1,nonverbal
+Adam,driver,Undirected,907,,,1,nonverbal
+Adam,groom,Undirected,908,,,1,nonverbal
+Adam,priest,Undirected,909,,,1,nonverbal
+Baines,man with snake,Undirected,910,,,1,nonverbal
+Charlie,Kananga's man 1,Undirected,911,,,1,nonverbal
+Dawes,someone,Undirected,912,,,1,nonverbal
+James Bond,Kananga's people,Undirected,913,,,2,nonverbal
+James Bond,bride,Undirected,917,,,1,nonverbal
+James Bond,groom,Undirected,918,,,1,nonverbal
+James Bond,man with snake,Undirected,919,,,1,nonverbal
+James Bond,pilot,Undirected,921,,,1,nonverbal
+James Bond,police,Undirected,922,,,1,nonverbal
+James Bond,priest,Undirected,923,,,1,nonverbal
+Kananga,Rosie,Undirected,924,,,1,nonverbal
+Kananga,performer,Undirected,926,,,1,nonverbal
+Kananga's man 3,Solitaire,Undirected,927,,,1,nonverbal
+Kananga's man 3,Tee-Hee,Undirected,928,,,1,nonverbal
+Kananga's people,bride,Undirected,929,,,1,nonverbal
+Kananga's people,groom,Undirected,930,,,1,nonverbal
+Kananga's people,priest,Undirected,931,,,1,nonverbal
+Leiter,Solitaire,Undirected,932,,,1,nonverbal
+Moneypenny,girl,Undirected,933,,,1,nonverbal
+Quarrel,Solitaire,Undirected,934,,,1,nonverbal
+Solitaire,Strutter,Undirected,935,,,1,nonverbal
+Solitaire,driver,Undirected,937,,,1,nonverbal
+Solitaire,man with snake,Undirected,938,,,1,nonverbal
+Solitaire,pilot,Undirected,940,,,1,nonverbal
+Solitaire,police,Undirected,941,,,1,nonverbal
+Strutter,Tee-Hee,Undirected,942,,,1,nonverbal
+Strutter,black gentleman,Undirected,943,,,1,nonverbal
+Baines,James Bond,Undirected,947,,,1,context
+Baines,M,Undirected,948,,,1,context
+Bell,Bleeker,Undirected,949,,,1,context
+Dawes,M,Undirected,950,,,1,context
+Hamilton,M,Undirected,951,,,1,context
+Kananga,Kananga's man 1,Undirected,952,,,1,context
+Kananga,Kananga's man 2,Undirected,953,,,1,context
+Kananga,driver,Undirected,954,,,1,context
+Leiter,Rosie,Undirected,956,,,1,context
+Tee-Hee,Whisper,Undirected,957,,,1,context

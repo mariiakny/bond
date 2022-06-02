@@ -1,0 +1,54 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;46;141;1;0.897;0.7583
+2;Le Chiffre;m;23;77;0.543;0.619;0.105
+3;dealer;m;12;50;0.35;0.547;0
+4;Vesper;f;20;49;0.343;0.598;0.048
+5;Infante;m;13;39;0.271;0.553;0.0022
+6;Leiter;m;13;38;0.264;0.553;0.0022
+7;Fukutu;m;12;34;0.236;0.547;0
+8;Tomelli;m;13;27;0.186;0.553;0.0022
+9;Madame Wu;f;14;26;0.179;0.559;0.0133
+10;Gallardo;m;12;22;0.15;0.547;0
+10;Grafin von Wallenstein;f;12;22;0.15;0.547;0
+10;Kaminofsky;m;12;22;0.15;0.547;0
+13;M;f;7;17;0.114;0.515;0.0068
+14;Mendel;m;12;16;0.107;0.547;0
+15;Dimitros;m;8;15;0.1;0.525;0.0104
+16;Mathis;m;3;14;0.093;0.491;0.0006
+17;doctor;m;6;11;0.071;0.51;0.037
+17;doctor 2;m;6;11;0.071;0.51;0.037
+19;Obanno;m;7;10;0.064;0.525;0.0391
+20;Villiers;m;4;10;0.064;0.5;0
+21;card players;n;3;8;0.05;0.486;0
+21;dealer 1;f;3;8;0.05;0.486;0
+23;Kratt;m;6;7;0.043;0.515;0.0087
+24;White;m;5;7;0.043;0.515;0.001
+25;Valenka;f;5;6;0.036;0.515;0.0008
+25;Gettler;m;5;6;0.036;0.5;0.002
+27;Obanno's friend;m;5;5;0.029;0.515;0.000151
+28;Solange;f;3;5;0.029;0.5;0
+28;general;m;3;5;0.029;0.391;0
+30;Mollaka;m;4;4;0.021;0.491;0.0011
+30;barman;m;4;4;0.021;0.491;0
+32;Carter;m;3;4;0.021;0.486;0.0004
+32;co-worker;f;3;4;0.021;0.344;0
+32;technican;m;3;4;0.021;0.344;0
+35;Dryden;m;3;3;0.014;0.486;0.0004
+35;military attache;m;3;3;0.014;0.486;0.000377
+35;Gettler's man;m;3;3;0.014;0.486;0
+35;Gettler's men;n;3;3;0.014;0.486;0
+39;front desk clerk;f;2;3;0.014;0.486;0
+40;Dryden's messenger;m;2;2;0.007;0.481;0
+40;technican 1;m;2;2;0.007;0.481;0
+40;Carlos;m;2;2;0.007;0.481;0
+40;James Bond's assistant;m;2;2;0.007;0.481;0
+40;soldiers;n;2;2;0.007;0.481;0
+40;Vesper's boyfriend;m;2;2;0.007;0.397;0
+46;broker;m;1;2;0.007;0.385;0
+47;Miami police;n;1;1;0;0.477;0
+47;barman 1;m;1;1;0;0.477;0
+47;bartender;m;1;1;0;0.477;0
+47;german;m;1;1;0;0.477;0
+47;hotel worker;m;1;1;0;0.477;0
+47;receptionist;f;1;1;0;0.477;0
+47;boy;m;1;1;0;0.347;0

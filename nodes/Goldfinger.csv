@@ -1,0 +1,56 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;29;85;1;0.68;0.564
+2;Goldfinger;m;19;54;0.631;0.567;0.25
+4;Leiter;m;11;27;0.31;0.486;0.178
+3;Pussy Galore;f;11;28;0.321;0.543;0.176
+5;Solo;m;9;17;0.19;0.51;0.08
+6;Midnight;m;8;15;0.167;0.389;0.068
+25;Smithers;m;3;4;0.036;0.418;0.035
+18;gangster 2;m;6;6;0.06;0.383;0.021
+15;M;m;5;7;0.071;0.447;0.012
+14;Tilly;f;4;7;0.071;0.418;0.011
+20;Simmons;m;1;5;0.048;0.364;0.00501
+11;Kisch;m;5;8;0.083;0.481;0.004
+23;someone;m;4;4;0.036;0.477;0.002
+17;gangster 1;m;6;6;0.06;0.383;0.000932
+21;Mei Li;f;2;5;0.048;0.425;0.000349
+22;soldiers;n;4;4;0.036;0.336;0.000349
+44;gangster 3;m;2;2;0.012;1;0
+45;gangster 4;m;2;2;0.012;1;0
+46;gangster 5;m;2;2;0.012;1;0
+9;Oddjob;m;5;11;0.119;0.464;0
+27;Goldfinger's guards;n;3;3;0.024;0.455;0
+38;scientist 1;m;2;2;0.012;0.451;0
+39;Blacking;m;2;2;0.012;0.451;0
+41;servant;m;2;2;0.012;0.451;0
+19;scientist;m;4;5;0.048;0.44;0
+30;Dink;f;2;3;0.024;0.432;0
+16;Jill Masterson;f;3;6;0.06;0.415;0
+26;Moneypenny;f;2;4;0.036;0.411;0
+34;Bonita;f;2;2;0.012;0.411;0
+35;man;m;2;2;0.012;0.411;0
+36;Q;m;2;2;0.012;0.411;0
+24;Hawker;m;1;4;0.036;0.408;0
+47;guard 1;m;1;1;0;0.408;0
+48;korean guard;m;1;1;0;0.408;0
+50;Sierra;m;1;1;0;0.408;0
+51;maid;f;1;1;0;0.408;0
+52;receptionist;f;1;1;0;0.408;0
+53;security officer;m;1;1;0;0.408;0
+7;Strap;m;6;13;0.143;0.383;0
+10;Laurence;m;6;10;0.107;0.383;0
+28;Goldfinger's people;n;3;3;0.024;0.37;0
+37;soldiers;n;2;2;0.012;0.367;0
+40;Ling;m;1;2;0.012;0.364;0
+29;Althea;f;2;3;0.024;0.357;0
+33;pilots;f;2;3;0.024;0.357;0
+54;Sydney;f;1;1;0;0.354;0
+55;guard;m;1;1;0;0.354;0
+8;Johnnie;m;4;11;0.119;0.336;0
+12;general;m;4;7;0.071;0.336;0
+13;officers;n;4;7;0.071;0.336;0
+31;brigadier;m;3;3;0.024;0.333;0
+32;lt. colonel;m;3;3;0.024;0.333;0
+49;Brunskill;m;1;1;0;0.297;0
+42;MacCarthy;m;2;2;0.012;0.283;0
+43;Rabin;m;2;2;0.012;0.283;0

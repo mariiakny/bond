@@ -1,0 +1,87 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Ash,James Bond,Undirected,0,,,5,verbal
+Ash,Leiter,Undirected,1,,,5,verbal
+Ash,Valdo,Undirected,2,,,3,verbal
+Blofeld,James Bond,Undirected,3,,,6,verbal
+Blofeld,Madeleine,Undirected,4,,,1,verbal
+Blofeld,spectre agents,Undirected,5,,,1,verbal
+Hardy,Symes,Undirected,6,,,3,verbal
+Hardy,Valdo,Undirected,7,,,1,verbal
+Hardy,spectre agents,Undirected,8,,,1,verbal
+James Bond,Leiter,Undirected,9,,,12,verbal
+James Bond,M,Undirected,10,,,11,verbal
+James Bond,MI6 guard,Undirected,11,,,1,verbal
+James Bond,Madeleine,Undirected,12,,,26,verbal
+James Bond,Mathilde,Undirected,13,,,9,verbal
+James Bond,Moneypenny,Undirected,14,,,12,verbal
+James Bond,Nomi,Undirected,15,,,29,verbal
+James Bond,Paloma,Undirected,16,,,11,verbal
+James Bond,Primo,Undirected,17,,,6,verbal
+James Bond,Q,Undirected,18,,,26,verbal
+James Bond,Safin,Undirected,19,,,5,verbal
+James Bond,Tanner,Undirected,20,,,13,verbal
+James Bond,Valdo,Undirected,21,,,8,verbal
+James Bond,bartender,Undirected,22,,,1,verbal
+James Bond,boy,Undirected,23,,,1,verbal
+James Bond,old man,Undirected,24,,,1,verbal
+James Bond,porter,Undirected,25,,,3,verbal
+Leiter,Valdo,Undirected,26,,,2,verbal
+Madeleine,Mathilde,Undirected,27,,,11,verbal
+Madeleine,Nomi,Undirected,28,,,6,verbal
+Madeleine,Primo,Undirected,29,,,4,verbal
+Madeleine,Safin,Undirected,30,,,6,verbal
+Madeleine,Tanner,Undirected,31,,,2,verbal
+Madeleine,mother,Undirected,32,,,1,verbal
+Madeleine,porter,Undirected,33,,,1,verbal
+Madeleine,receptionist girl,Undirected,34,,,1,verbal
+Mathilde,Nomi,Undirected,35,,,1,verbal
+Mathilde,Safin,Undirected,36,,,7,verbal
+Moneypenny,Nomi,Undirected,37,,,7,verbal
+Moneypenny,Q,Undirected,38,,,11,verbal
+Moneypenny,Tanner,Undirected,39,,,8,verbal
+M,Moneypenny,Undirected,40,,,8,verbal
+M,Nomi,Undirected,41,,,8,verbal
+M,Q,Undirected,42,,,15,verbal
+M,Tanner,Undirected,43,,,16,verbal
+M,admiral,Undirected,44,,,1,verbal
+Nomi,Paloma,Undirected,45,,,2,verbal
+Nomi,Q,Undirected,46,,,14,verbal
+Nomi,Tanner,Undirected,47,,,8,verbal
+Nomi,Valdo,Undirected,48,,,6,verbal
+Nomi,woman,Undirected,49,,,1,verbal
+Paloma,Valdo,Undirected,50,,,3,verbal
+Primo,Safin,Undirected,51,,,1,verbal
+Primo,Valdo,Undirected,52,,,2,verbal
+Primo,spectre agents,Undirected,53,,,5,verbal
+Q,Tanner,Undirected,54,,,8,verbal
+Safin,Safin's guards,Undirected,55,,,3,verbal
+Safin,Valdo,Undirected,56,,,2,verbal
+Safin,mother,Undirected,57,,,1,verbal
+Safin,spectre agents,Undirected,58,,,1,verbal
+Svetlana,Valdo,Undirected,59,,,1,verbal
+Symes,Valdo,Undirected,60,,,1,verbal
+Symes,spectre agents,Undirected,61,,,1,verbal
+boy,old man,Undirected,62,,,1,verbal
+Ash,Primo,Undirected,65,,,1,nonverbal
+Hardy,Primo,Undirected,66,,,1,nonverbal
+James Bond,Safin's guards,Undirected,73,,,1,nonverbal
+James Bond,killers,Undirected,75,,,1,nonverbal
+James Bond,spectre agents,Undirected,76,,,3,nonverbal
+Madeleine,Safin's guards,Undirected,80,,,1,nonverbal
+Madeleine,killers,Undirected,81,,,1,nonverbal
+Madeleine,spectre agents,Undirected,82,,,1,nonverbal
+Mathilde,killers,Undirected,84,,,1,nonverbal
+Nomi,Primo,Undirected,87,,,1,nonverbal
+Nomi,Safin's guards,Undirected,89,,,1,nonverbal
+Nomi,spectre agents,Undirected,91,,,1,nonverbal
+Paloma,Primo,Undirected,92,,,1,nonverbal
+Paloma,spectre agents,Undirected,94,,,1,nonverbal
+Ash,Safin,Undirected,96,,,1,context
+Ash,killers,Undirected,97,,,1,context
+Leiter,M,Undirected,98,,,1,context
+Leiter,Paloma,Undirected,99,,,1,context
+M,Madeleine,Undirected,100,,,1,context
+Safin,killers,Undirected,102,,,1,context
+Primo,Blofeld,Undirected,103,,,1,context
+M,Blofeld,Undirected,104,,,1,context
+receptionist girl,Safin,Undirected,105,,,1,context

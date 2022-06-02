@@ -1,0 +1,56 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;31;107;1;0.667;0.501
+2;Largo;m;23;57;0.528;0.591;0.302
+4;Leiter;m;8;29;0.264;0.452;0.119
+22;Angelo;m;7;8;0.066;0.423;0.104
+7;Fiona;f;11;17;0.151;0.52;0.084
+40;pilot;m;3;3;0.019;0.321;0.067
+23;Boitier;f;8;8;0.066;0.481;0.039
+9;Lippe;m;7;14;0.123;0.5;0.036
+21;minister;m;6;8;0.066;0.423;0.035
+5;Paula;f;11;21;0.189;0.481;0.034
+3;Dominique;f;6;29;0.264;0.495;0.016
+6;Pinder;m;5;21;0.189;0.433;0.013
+39;Quist;m;3;3;0.019;0.477;0.012
+19;Janni;m;6;9;0.075;0.481;0.008
+8;M;m;8;15;0.132;0.433;0.006
+16;Blofeld;m;8;10;0.085;0.406;0.006
+28;Q;m;6;6;0.047;0.437;0.004
+10;Vargas;m;6;13;0.113;0.477;0.002
+17;Kutze;m;5;10;0.085;0.473;0.001
+46;air vice marshall;m;2;2;0.009;1;0.000673
+24;Moneypenny;f;4;8;0.066;0.416;0.000449
+33;air commander;m;3;4;0.028;0.302;0.000337
+18;Largo's men;n;4;10;0.085;0.473;0.0002
+54;officer;m;1;1;0;0.667;0
+55;guards;n;1;1;0;0.667;0
+34;croupier;m;3;4;0.028;0.46;0
+44;Largo's capitan;m;2;2;0.009;0.456;0
+36;girl;f;2;4;0.028;0.43;0
+29;Lippe's man 1;m;3;6;0.047;0.423;0
+30;Lippe's man 2;m;3;5;0.038;0.423;0
+20;Patricia;f;2;9;0.075;0.419;0
+31;00 agents;n;4;4;0.028;0.416;0
+32;John;m;4;4;0.028;0.416;0
+25;Boitier's man 1;m;4;7;0.057;0.413;0
+26;Boitier's man 2;m;4;7;0.057;0.413;0
+27;La Porte;f;4;6;0.047;0.413;0
+38;Boitier's man 3;m;4;4;0.028;0.413;0
+43;group capital;m;2;2;0.009;0.406;0
+11;number eleven;m;7;12;0.104;0.391;0
+12;number five;m;7;12;0.104;0.391;0
+13;number seven;m;7;12;0.104;0.391;0
+14;number ten;m;7;12;0.104;0.391;0
+15;number nine;m;7;12;0.104;0.391;0
+35;Largo's man;m;3;4;0.028;0.377;0
+50;engineer 1;m;1;1;0;0.374;0
+51;engineer 2;m;1;1;0;0.374;0
+52;french policeman;m;1;1;0;0.374;0
+53;girl assistant;f;1;1;0;0.374;0
+42;Palazzi;m;2;2;0.009;0.354;0
+37;operator;m;2;4;0.028;0.315;0
+41;security officer;m;2;2;0.009;0.301;0
+45;crew;n;2;2;0.009;0.301;0
+49;Kenniston;m;1;1;0;0.299;0
+47;co-pilot;m;2;2;0.009;0.245;0
+48;navigator;m;2;2;0.009;0.245;0

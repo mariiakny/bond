@@ -1,0 +1,115 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+1st sentry,Kerim,Undirected,169,,,1,verbal
+1st umpire,attendant,Undirected,170,,,2,verbal
+Benz,James Bond,Undirected,171,,,1,verbal
+Benz,Kerim,Undirected,172,,,1,verbal
+Benz,other man,Undirected,173,,,1,verbal
+Blofeld,Kleb,Undirected,174,,,4,verbal
+Blofeld,Kronsteen,Undirected,175,,,4,verbal
+Grant,James Bond,Undirected,176,,,10,verbal
+Grant,Kleb,Undirected,177,,,1,verbal
+Grant,Morzeny,Undirected,178,,,2,verbal
+Grant,Tania,Undirected,179,,,4,verbal
+Grant,waiter,Undirected,180,,,1,verbal
+Green,Morzeny,Undirected,181,,,1,verbal
+Irina,Natasha,Undirected,182,,,1,verbal
+Irina,Tania,Undirected,183,,,1,verbal
+James Bond,Kerim,Undirected,184,,,27,verbal
+James Bond,Kerim's waiter,Undirected,185,,,1,verbal
+James Bond,Kleb,Undirected,186,,,2,verbal
+James Bond,M,Undirected,187,,,5,verbal
+James Bond,Mahmet,Undirected,188,,,2,verbal
+James Bond,Moneypenny,Undirected,189,,,5,verbal
+James Bond,Morzeny,Undirected,190,,,2,verbal
+James Bond,Paul,Undirected,191,,,2,verbal
+James Bond,Q,Undirected,192,,,2,verbal
+James Bond,Rhoda,Undirected,193,,,3,verbal
+James Bond,Sylvia,Undirected,194,,,4,verbal
+James Bond,Tania,Undirected,195,,,33,verbal
+James Bond,Varva,Undirected,196,,,2,verbal
+James Bond,chauffeur,Undirected,197,,,1,verbal
+James Bond,clerk,Undirected,198,,,1,verbal
+James Bond,concierge,Undirected,199,,,1,verbal
+James Bond,conductor,Undirected,200,,,3,verbal
+James Bond,doorman,Undirected,201,,,1,verbal
+James Bond,female assistant,Undirected,202,,,3,verbal
+James Bond,gypsy girl,Undirected,203,,,2,verbal
+James Bond,gypsy girl 1,Undirected,204,,,2,verbal
+James Bond,gypsy girl 2,Undirected,205,,,2,verbal
+James Bond,porter,Undirected,206,,,1,verbal
+James Bond,receptionist,Undirected,207,,,1,verbal
+James Bond,waiter,Undirected,208,,,1,verbal
+Kerim,Kerim's assistant,Undirected,209,,,1,verbal
+Kerim,Kerim's mistress,Undirected,210,,,1,verbal
+Kerim,Kerim's people,Undirected,211,,,1,verbal
+Kerim,Kerim's waiter,Undirected,212,,,1,verbal
+Kerim,Tania,Undirected,213,,,4,verbal
+Kerim,Varva,Undirected,214,,,4,verbal
+Kerim,gypsy girl,Undirected,216,,,1,verbal
+Kerim,gypsy girl 1,Undirected,217,,,1,verbal
+Kerim,gypsy girl 2,Undirected,218,,,1,verbal
+Kleb,Kronsteen,Undirected,219,,,3,verbal
+Kleb,Morzeny,Undirected,220,,,6,verbal
+Kleb,Tania,Undirected,221,,,2,verbal
+Kronsteen,Macadams,Undirected,222,,,3,verbal
+Krylenko,Krylenko's man,Undirected,223,,,1,verbal
+Moneypenny,Q,Undirected,224,,,2,verbal
+Moneypenny,Sylvia,Undirected,225,,,1,verbal
+Morzeny,Rhoda,Undirected,226,,,1,verbal
+Morzeny,skipper,Undirected,227,,,1,verbal
+M,Moneypenny,Undirected,228,,,4,verbal
+M,Q,Undirected,229,,,2,verbal
+Natasha,Tania,Undirected,230,,,1,verbal
+Tania,conductor,Undirected,231,,,1,verbal
+Tania,policeman,Undirected,232,,,1,verbal
+clerk,man 2,Undirected,233,,,1,verbal
+concierge,female assistant,Undirected,234,,,3,verbal
+guide,tour group,Undirected,235,,,1,verbal
+gypsy girl 1,gypsy girl 2,Undirected,236,,,4,verbal
+man in helicopter 1,man in helicopter 2,Undirected,237,,,2,verbal
+man,young woman,Undirected,238,,,1,verbal
+Benz,Kozlovsky,Undirected,239,,,2,nonverbal
+Benz,Krylenko,Undirected,240,,,2,nonverbal
+Benz,Tania,Undirected,241,,,2,nonverbal
+Benz,Vasilev,Undirected,242,,,2,nonverbal
+Blofeld,Morzeny,Undirected,245,,,1,nonverbal
+Blofeld's man 1,Blofeld's man 2,Undirected,246,,,1,nonverbal
+Blofeld's man 1,Kronsteen,Undirected,247,,,1,nonverbal
+Blofeld's man 2,Kronsteen,Undirected,248,,,1,nonverbal
+Grant,Nash,Undirected,250,,,1,nonverbal
+Grant,blondy girl,Undirected,251,,,1,nonverbal
+Grant,bulgarian 1,Undirected,252,,,1,nonverbal
+Grant,bulgarian 2,Undirected,253,,,1,nonverbal
+Grant,fake James Bond,Undirected,254,,,1,nonverbal
+James Bond,Krylenko,Undirected,255,,,1,nonverbal
+James Bond,man in helicopter 1,Undirected,258,,,1,nonverbal
+James Bond,man in helicopter 2,Undirected,259,,,1,nonverbal
+Kerim,Krylenko,Undirected,260,,,2,nonverbal
+Kerim,chauffeur,Undirected,261,,,1,nonverbal
+Kleb,Rhoda,Undirected,264,,,1,nonverbal
+Kozlovsky,Krylenko,Undirected,265,,,2,nonverbal
+Kozlovsky,Tania,Undirected,266,,,1,nonverbal
+Kozlovsky,Vasilev,Undirected,267,,,2,nonverbal
+Kronsteen,Morzeny,Undirected,268,,,1,nonverbal
+Kronsteen,waiter,Undirected,269,,,1,nonverbal
+Krylenko,Tania,Undirected,270,,,1,nonverbal
+Krylenko,Vasilev,Undirected,271,,,2,nonverbal
+Tania,Vasilev,Undirected,272,,,1,nonverbal
+Tania,bulgarian 1,Undirected,273,,,1,nonverbal
+Tania,man in helicopter 1,Undirected,274,,,1,nonverbal
+Tania,man in helicopter 2,Undirected,275,,,1,nonverbal
+bulgarian 1,bulgarian 2,Undirected,276,,,1,nonverbal
+female assistant,porter,Undirected,277,,,1,nonverbal
+Benz,Grant,Undirected,279,,,1,context
+Blofeld,Blofeld's man 1,Undirected,280,,,1,context
+Blofeld,Blofeld's man 2,Undirected,281,,,1,context
+Blofeld,waiter,Undirected,282,,,1,context
+Grant,Kerim,Undirected,283,,,1,context
+Grant,Rhoda,Undirected,284,,,1,context
+Kerim,Mahmet,Undirected,285,,,1,context
+Morzeny,fake James Bond,Undirected,286,,,1,context
+Varva,gypsy girl,Undirected,287,,,1,context
+Varva,gypsy girl 1,Undirected,288,,,1,context
+Varva,gypsy girl 2,Undirected,289,,,1,context
+gypsy girl,gypsy girl 1,Undirected,291,,,1,context
+gypsy girl,gypsy girl 2,Undirected,292,,,1,context

@@ -1,0 +1,96 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Moneypenny,Q,Undirected,371,,,1,context
+M,Q,Undirected,372,,,1,context
+M,Ronson,Undirected,373,,,1,context
+M,Tanner,Undirected,374,,,16,verbal
+Ronson,Tanner,Undirected,375,,,1,context
+Severine,chinese man 1,Undirected,376,,,1,context
+Severine,chinese man 2,Undirected,377,,,1,context
+Severine,chinese man 3,Undirected,378,,,1,context
+chinese man 1,chinese man 2,Undirected,379,,,2,nonverbal
+chinese man 1,chinese man 3,Undirected,380,,,2,nonverbal
+chinese man 2,chinese man 3,Undirected,381,,,2,nonverbal
+Dowar,Moneypenny,Undirected,382,,,3,verbal
+Dowar,James Bond,Undirected,383,,,1,nonverbal
+Dowar,M,Undirected,384,,,6,verbal
+Dowar,Mallory,Undirected,385,,,4,verbal
+Dowar,Silva,Undirected,386,,,1,nonverbal
+Dowar,Silva's men in police form,Undirected,387,,,1,nonverbal
+Dowar,Tanner,Undirected,388,,,2,verbal
+Dowar,ministers,Undirected,389,,,3,verbal
+Moneypenny,James Bond,Undirected,390,,,12,verbal
+Moneypenny,M,Undirected,391,,,9,verbal
+Moneypenny,Mallory,Undirected,392,,,3,verbal
+Moneypenny,Patrice,Undirected,393,,,1,nonverbal
+Moneypenny,Silva,Undirected,394,,,1,nonverbal
+Moneypenny,Silva's men in police form,Undirected,395,,,1,nonverbal
+Moneypenny,Tanner,Undirected,396,,,7,verbal
+Moneypenny,chinese man 3,Undirected,397,,,1,nonverbal
+Moneypenny,ministers,Undirected,398,,,4,verbal
+James Bond,Kincade,Undirected,399,,,7,verbal
+James Bond,M,Undirected,400,,,19,verbal
+James Bond,Mallory,Undirected,401,,,3,verbal
+James Bond,Patrice,Undirected,402,,,2,verbal
+James Bond,Ronson,Undirected,403,,,1,nonverbal
+James Bond,Silva,Undirected,404,,,6,verbal
+James Bond,Silva's men,Undirected,405,,,2,nonverbal
+James Bond,Silva's men in police form,Undirected,406,,,1,nonverbal
+James Bond,Tanner,Undirected,407,,,8,verbal
+James Bond,barman,Undirected,408,,,1,nonverbal
+James Bond,capitan,Undirected,409,,,2,verbal
+James Bond,chinese man 1,Undirected,410,,,1,nonverbal
+James Bond,chinese man 2,Undirected,411,,,1,nonverbal
+James Bond,chinese man 3,Undirected,412,,,1,nonverbal
+James Bond,men,Undirected,413,,,1,nonverbal
+James Bond,ministers,Undirected,414,,,1,nonverbal
+James Bond,woman,Undirected,415,,,1,nonverbal
+Kincade,M,Undirected,416,,,6,verbal
+Kincade,Silva's men,Undirected,417,,,2,verbal
+Mallory,Silva,Undirected,418,,,1,nonverbal
+Mallory,Silva's men in police form,Undirected,419,,,1,nonverbal
+Mallory,Tanner,Undirected,420,,,4,verbal
+Mallory,ministers,Undirected,421,,,3,verbal
+M,Mallory,Undirected,422,,,8,verbal
+M,Silva,Undirected,423,,,4,verbal
+M,Silva's men,Undirected,424,,,1,nonverbal
+M,Silva's men in police form,Undirected,425,,,1,nonverbal
+M,ministers,Undirected,427,,,3,verbal
+Patrice,chinese guard,Undirected,428,,,1,nonverbal
+Patrice,man in yellow,Undirected,429,,,1,nonverbal
+Silva's men in police form,Tanner,Undirected,430,,,1,nonverbal
+Silva's men in police form,ministers,Undirected,431,,,1,nonverbal
+Silva's men,capitan,Undirected,432,,,1,nonverbal
+Silva,Silva's men in police form,Undirected,433,,,1,nonverbal
+Silva,Tanner,Undirected,434,,,1,nonverbal
+Silva,ministers,Undirected,435,,,1,nonverbal
+Silva,policeman,Undirected,436,,,1,nonverbal
+Tanner,ministers,Undirected,437,,,2,verbal
+Dowar,inquiry board member 1,Undirected,445,,,1,verbal
+Moneypenny,Vanessa,Undirected,451,,,1,verbal
+Moneypenny,inquiry board member 1,Undirected,452,,,1,verbal
+James Bond,Q,Undirected,458,,,6,verbal
+James Bond,Severine,Undirected,459,,,5,verbal
+James Bond,agent MI6,Undirected,462,,,1,verbal
+James Bond,doctor Hall,Undirected,464,,,1,verbal
+James Bond,floor manager,Undirected,465,,,1,verbal
+James Bond,subway worker,Undirected,466,,,1,verbal
+James Bond,cashier,Undirected,467,,,1,verbal
+Kincade,Silva,Undirected,469,,,1,verbal
+Mallory,Q,Undirected,471,,,1,verbal
+Mallory,inquiry board member 1,Undirected,473,,,1,verbal
+M,Vanessa,Undirected,478,,,1,verbal
+M,agent MI6 2,Undirected,479,,,1,verbal
+M,guard,Undirected,480,,,1,verbal
+M,inquiry board member 1,Undirected,481,,,1,verbal
+Q,Q assistant,Undirected,483,,,1,verbal
+Q,Tanner,Undirected,484,,,2,verbal
+Severine,Silva,Undirected,485,,,1,verbal
+Severine,capitan,Undirected,486,,,1,verbal
+Silva,Silva's men,Undirected,487,,,2,verbal
+Silva,agent MI6 2,Undirected,488,,,1,verbal
+Tanner,Vanessa,Undirected,489,,,1,verbal
+Tanner,agent MI6 2,Undirected,490,,,1,verbal
+husband,wife,Undirected,492,,,1,verbal
+inquiry board member 1,ministers,Undirected,493,,,1,verbal
+James Bond,husband,Undirected,494,,,1,nonverbal
+James Bond,wife,Undirected,495,,,1,nonverbal

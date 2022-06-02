@@ -1,0 +1,53 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;34;106;1;0.793;0.566
+2;Melina;f;17;50;0.467;0.561;0.124
+9;minister;m;8;15;0.133;0.511;0.103
+26;Gogol;m;4;4;0.029;0.469;0.07
+11;chief of staff;m;8;14;0.124;0.517;0.052
+3;Kristatos;m;12;36;0.333;0.529;0.046
+12;Q;m;7;13;0.114;0.505;0.039
+6;Kriegler;m;9;19;0.171;0.523;0.017
+15;Gonzales;m;6;9;0.076;0.489;0.015
+4;Columbo;m;10;23;0.21;0.517;0.013
+7;Locque;m;10;18;0.162;0.505;0.011
+17;Havelock;m;4;8;0.067;0.414;0.007
+10;Ferrara;m;6;14;0.124;0.484;0.004
+8;Brink;f;7;16;0.143;0.5;0.003
+24;capitan;m;4;5;0.038;1;0.003
+16;Lisl;f;5;8;0.067;0.465;0.002
+5;Bibi;f;6;22;0.2;0.474;0.000706
+28;sonar operator 1;m;3;4;0.029;0.8;0.000392
+13;killers;n;4;11;0.095;0.479;0.000392
+37;junior officer;m;2;2;0.01;0.667;0
+40;sonar operator 2;m;2;2;0.01;0.667;0
+50;second junior officer;m;1;1;0;0.571;0
+20;M;m;5;6;0.048;0.495;0
+22;Moneypenny;f;5;5;0.038;0.495;0
+19;Apostis;m;4;6;0.048;0.484;0
+30;Kristatos' men;n;4;4;0.029;0.484;0
+14;Columbo's men;n;4;9;0.076;0.479;0
+27;Gonzales's men;n;3;4;0.029;0.474;0
+35;Max;n;2;2;0.01;0.469;0
+36;driver;m;2;2;0.01;0.469;0
+25;Columbo's men;n;4;5;0.038;0.46;0
+29;Locque's people;n;4;4;0.029;0.46;0
+21;fat man;m;3;6;0.048;0.455;0
+23;dealer;m;3;5;0.038;0.455;0
+31;Sheren;f;2;3;0.019;0.455;0
+34;Maitre D;m;2;2;0.01;0.455;0
+32;Blofeld;m;2;2;0.01;0.451;0
+41;pilot;m;2;2;0.01;0.451;0
+43;girl;f;1;1;0;0.447;0
+44;jumpmaster;m;1;1;0;0.447;0
+45;vicar;m;1;1;0;0.447;0
+18;Iona;f;3;7;0.057;0.377;0
+46;Mate;m;1;1;0;0.362;0
+47;salesman;m;1;1;0;0.362;0
+33;Helmsman;m;1;2;0.01;0.348;0
+38;first sea lord;m;2;2;0.01;0.343;0
+39;vice admiral;m;2;2;0.01;0.343;0
+51;prime minister;f;1;1;0;0.343;0
+49;aide;m;1;1;0;0.341;0
+48;assistant;m;1;1;0;0.338;0
+42;secretary;m;1;1;0;0.322;0
+52;Rublevich;f;1;1;0;0.322;0

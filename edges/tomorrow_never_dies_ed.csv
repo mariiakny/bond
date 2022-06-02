@@ -1,0 +1,118 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Bukharin,M,Undirected,249,,,3,verbal
+Bukharin,Robinson,Undirected,250,,,4,verbal
+Bukharin,Roebuck,Undirected,251,,,3,verbal
+Carver's assistant girl,James Bond,Undirected,252,,,1,verbal
+Carver's soldiers,Gupta,Undirected,253,,,1,verbal
+Carver,Carver's assistant girl,Undirected,254,,,3,verbal
+Carver,Carver's soldiers,Undirected,255,,,4,verbal
+Carver,Gupta,Undirected,256,,,10,verbal
+Carver,Hobbs,Undirected,257,,,2,verbal
+Carver,James Bond,Undirected,258,,,18,verbal
+Carver,Jones,Undirected,259,,,2,verbal
+Carver,Mary,Undirected,260,,,1,verbal
+Carver,Paris,Undirected,261,,,4,verbal
+Carver,Stamper,Undirected,262,,,12,verbal
+Carver,Wai Lin,Undirected,263,,,12,verbal
+Carver,Walleys,Undirected,264,,,2,verbal
+Carver,captain 1,Undirected,265,,,1,verbal
+Carver,guards,Undirected,266,,,1,verbal
+Chinese admiral,admiral,Undirected,267,,,1,verbal
+Greenwalt,James Bond,Undirected,268,,,1,verbal
+Greenwalt,Tom,Undirected,269,,,2,verbal
+Greenwalt,US soldier,Undirected,270,,,1,verbal
+Gupta,Stamper,Undirected,271,,,3,verbal
+Gupta,guards,Undirected,272,,,1,verbal
+Hobbs,Jones,Undirected,273,,,1,verbal
+Hobbs,Mary,Undirected,274,,,1,verbal
+Hobbs,Walleys,Undirected,275,,,1,verbal
+Inga,James Bond,Undirected,276,,,1,verbal
+James Bond,Kaufman,Undirected,277,,,2,verbal
+James Bond,M,Undirected,278,,,6,verbal
+James Bond,Moneypenny,Undirected,279,,,4,verbal
+James Bond,Paris,Undirected,280,,,6,verbal
+James Bond,Q,Undirected,281,,,1,verbal
+James Bond,Robinson,Undirected,282,,,7,verbal
+James Bond,Roebuck,Undirected,283,,,1,verbal
+James Bond,Stamper,Undirected,284,,,10,verbal
+James Bond,Thug 1,Undirected,285,,,3,verbal
+James Bond,Tom,Undirected,286,,,4,verbal
+James Bond,US soldier,Undirected,287,,,1,verbal
+James Bond,Wai Lin,Undirected,288,,,25,verbal
+James Bond,minister,Undirected,289,,,1,verbal
+James Bond,receptionist girl,Undirected,290,,,1,verbal
+James Bond,terrorist,Undirected,291,,,1,verbal
+James Bond,waiter,Undirected,292,,,1,verbal
+Jones,Mary,Undirected,293,,,1,verbal
+Jones,Walleys,Undirected,294,,,1,verbal
+Kaufman,Stamper,Undirected,295,,,2,verbal
+Mary,Walleys,Undirected,296,,,1,verbal
+M,Moneypenny,Undirected,297,,,3,verbal
+M,Robinson,Undirected,298,,,14,verbal
+M,Roebuck,Undirected,299,,,14,verbal
+M,agent,Undirected,300,,,1,verbal
+M,minister,Undirected,301,,,5,verbal
+Paris,Wai Lin,Undirected,302,,,1,verbal
+Paris,waiter,Undirected,303,,,1,verbal
+Robinson,Roebuck,Undirected,304,,,5,verbal
+Robinson,minister,Undirected,305,,,2,verbal
+Roebuck,admiral,Undirected,306,,,1,verbal
+Roebuck,captain,Undirected,307,,,2,verbal
+Roebuck,minister,Undirected,308,,,6,verbal
+Stamper,Stamper's men,Undirected,309,,,7,verbal
+Stamper,Thug 2,Undirected,310,,,2,verbal
+Stamper,Wai Lin,Undirected,311,,,6,verbal
+Stamper,captain 1,Undirected,312,,,1,verbal
+Stamper,captain 2,Undirected,313,,,1,verbal
+Stamper,soldier,Undirected,314,,,1,verbal
+Thug 2,guards,Undirected,315,,,2,verbal
+Tom,US soldier,Undirected,316,,,1,verbal
+Wai Lin,Wai Lin's man,Undirected,317,,,1,verbal
+admiral,officer,Undirected,318,,,4,verbal
+captain 1,chinese pilot,Undirected,319,,,1,verbal
+captain 1,матросы,Undirected,320,,,3,verbal
+captain 2,soldiers,Undirected,321,,,3,verbal
+captain,firing officer,Undirected,322,,,2,verbal
+terrorist leader,terrorists,Undirected,323,,,1,verbal
+Carver's soldiers,James Bond,Undirected,324,,,1,nonverbal
+Carver's soldiers,Stamper,Undirected,325,,,1,nonverbal
+Carver's soldiers,Stamper's men,Undirected,326,,,1,nonverbal
+Carver's soldiers,Wai Lin,Undirected,327,,,1,nonverbal
+Carver,Stamper's men,Undirected,332,,,2,nonverbal
+Gupta,James Bond,Undirected,334,,,1,nonverbal
+Gupta,Stamper's men,Undirected,336,,,1,nonverbal
+James Bond,Stamper's men,Undirected,338,,,4,nonverbal
+James Bond,Thug 2,Undirected,340,,,4,nonverbal
+James Bond,Thug 3,Undirected,341,,,1,nonverbal
+terrorist,terrorists,Undirected,378,,,1,context
+James Bond,guards,Undirected,344,,,3,nonverbal
+James Bond,killers,Undirected,345,,,1,nonverbal
+James Bond,office workers,Undirected,346,,,1,nonverbal
+James Bond,terrorist pilot 1,Undirected,347,,,1,nonverbal
+James Bond,terrorist pilot 2,Undirected,348,,,1,nonverbal
+James Bond,terrorists,Undirected,349,,,1,nonverbal
+Moneypenny,Robinson,Undirected,350,,,1,nonverbal
+Stamper's men,Wai Lin,Undirected,353,,,3,nonverbal
+Stamper's men,guards,Undirected,354,,,1,nonverbal
+Stamper,Thug 1,Undirected,356,,,1,nonverbal
+Stamper,Thug 3,Undirected,357,,,1,nonverbal
+Stamper,Wai Lin's man,Undirected,359,,,1,nonverbal
+Stamper,guards,Undirected,360,,,1,nonverbal
+Stamper,sailors,Undirected,361,,,1,nonverbal
+Thug 1,Thug 2,Undirected,362,,,2,nonverbal
+Thug 1,Thug 3,Undirected,363,,,1,nonverbal
+Thug 2,Thug 3,Undirected,364,,,1,nonverbal
+Wai Lin,guards,Undirected,366,,,2,nonverbal
+Wai Lin,killers,Undirected,367,,,1,nonverbal
+Wai Lin,office workers,Undirected,368,,,1,nonverbal
+Carver,Chang,Undirected,369,,,1,context
+Chang,Gupta,Undirected,370,,,1,context
+Chang,killers,Undirected,371,,,1,context
+Moneypenny,Q,Undirected,372,,,1,context
+M,Q,Undirected,373,,,1,context
+Q,Robinson,Undirected,374,,,1,context
+Q,Tom,Undirected,375,,,1,context
+captain 2,soldier,Undirected,376,,,1,context
+soldier,soldiers,Undirected,377,,,1,context
+terrorist pilot 1,terrorists,Undirected,379,,,1,context
+terrorist pilot 2,terrorists,Undirected,380,,,1,context

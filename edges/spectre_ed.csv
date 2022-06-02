@@ -1,0 +1,116 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Blofeld,Blofeld's man 1,Undirected,494,,,1,context
+Blofeld,Blofeld's man 2,Undirected,495,,,1,context
+Blofeld,Blofeld's men,Undirected,496,,,1,context
+Blofeld,C,Undirected,497,,,1,context
+Blofeld,Hinx,Undirected,498,,,2,nonverbal
+Blofeld,Sciarra,Undirected,499,,,2,context
+Blofeld,White,Undirected,500,,,1,context
+Blofeld,guard,Undirected,501,,,1,context
+Blofeld,killer 1,Undirected,502,,,1,context
+Blofeld,killer 2,Undirected,503,,,1,context
+Blofeld,killer 3,Undirected,504,,,1,context
+Blofeld,killer 4,Undirected,505,,,1,context
+C,Moneypenny,Undirected,506,,,2,nonverbal
+C,killer 5,Undirected,507,,,1,context
+C,killer 6,Undirected,508,,,1,context
+C,killer 7,Undirected,509,,,1,context
+C,killer 8,Undirected,510,,,1,context
+Hinx,bald man 1,Undirected,511,,,1,context
+Hinx,bald man 2,Undirected,512,,,1,context
+Madeleine,White,Undirected,513,,,1,context
+Moneypenny,Q,Undirected,514,,,5,verbal
+M,Q,Undirected,515,,,5,verbal
+Q,Tanner,Undirected,516,,,5,verbal
+Sciarra,pilot,Undirected,517,,,1,context
+bald man 1,bald man 2,Undirected,518,,,2,nonverbal
+killer 1,killer 2,Undirected,519,,,3,nonverbal
+killer 5,killer 6,Undirected,520,,,3,nonverbal
+killer 5,killer 7,Undirected,521,,,1,context
+killer 5,killer 8,Undirected,522,,,1,context
+killer 6,killer 7,Undirected,523,,,1,context
+killer 6,killer 8,Undirected,524,,,1,context
+killer 7,killer 8,Undirected,525,,,2,verbal
+Blofeld's man 1,James Bond,Undirected,526,,,1,nonverbal
+Blofeld's man 2,James Bond,Undirected,527,,,1,nonverbal
+Blofeld's men,James Bond,Undirected,528,,,1,nonverbal
+Blofeld's men,Madeleine,Undirected,529,,,1,nonverbal
+C,Q,Undirected,532,,,1,nonverbal
+Gerra,Hinx,Undirected,533,,,1,nonverbal
+Hinx,James Bond,Undirected,534,,,3,nonverbal
+Hinx,Madeleine,Undirected,535,,,2,nonverbal
+Hinx,killer 4,Undirected,536,,,1,nonverbal
+James Bond,M,Undirected,537,,,6,verbal
+James Bond,Madeleine,Undirected,538,,,24,verbal
+James Bond,Sciarra,Undirected,539,,,1,nonverbal
+James Bond,italien man,Undirected,540,,,1,nonverbal
+James Bond,killer 1,Undirected,541,,,2,nonverbal
+James Bond,killer 2,Undirected,542,,,1,nonverbal
+James Bond,killer 3,Undirected,543,,,1,nonverbal
+James Bond,killer 5,Undirected,544,,,1,nonverbal
+James Bond,killer 6,Undirected,545,,,1,nonverbal
+James Bond,pilot,Undirected,546,,,1,nonverbal
+James Bond,suited man,Undirected,547,,,1,nonverbal
+Lucia,killer 1,Undirected,548,,,1,nonverbal
+Lucia,killer 2,Undirected,549,,,1,nonverbal
+Madeleine,killer 4,Undirected,550,,,1,nonverbal
+Moneypenny,Tanner,Undirected,552,,,5,verbal
+Moneypenny,killer 5,Undirected,553,,,1,nonverbal
+Moneypenny,killer 6,Undirected,554,,,1,nonverbal
+M,killer 5,Undirected,555,,,1,nonverbal
+M,killer 6,Undirected,556,,,1,nonverbal
+Q,Q's assistant 1,Undirected,557,,,1,nonverbal
+Q,bald man 1,Undirected,559,,,1,nonverbal
+Q,bald man 2,Undirected,560,,,1,nonverbal
+Q,killer 5,Undirected,561,,,1,nonverbal
+Q,killer 6,Undirected,562,,,1,nonverbal
+Tanner,killer 5,Undirected,563,,,1,nonverbal
+Tanner,killer 6,Undirected,564,,,1,nonverbal
+Blofeld,Blofeld's assistant,Undirected,568,,,1,verbal
+Blofeld,James Bond,Undirected,569,,,8,verbal
+Blofeld,M,Undirected,570,,,1,verbal
+Blofeld,Madeleine,Undirected,571,,,5,verbal
+Blofeld,Moreau,Undirected,572,,,1,verbal
+Blofeld,Vogel,Undirected,573,,,1,verbal
+Butler,James Bond,Undirected,574,,,2,verbal
+Butler,Madeleine,Undirected,575,,,2,verbal
+C,Chairman,Undirected,576,,,1,verbal
+C,James Bond,Undirected,577,,,1,verbal
+C,M,Undirected,578,,,6,verbal
+Estrella,James Bond,Undirected,579,,,1,verbal
+Gerra,Moreau,Undirected,580,,,1,verbal
+Hinx,Moreau,Undirected,581,,,1,verbal
+James Bond,Lucia,Undirected,582,,,2,verbal
+James Bond,Moneypenny,Undirected,585,,,4,verbal
+James Bond,Q,Undirected,586,,,5,verbal
+James Bond,Tanner,Undirected,587,,,1,verbal
+James Bond,White,Undirected,588,,,1,verbal
+James Bond,barman,Undirected,589,,,2,verbal
+James Bond,chauffeur,Undirected,590,,,1,verbal
+James Bond,guard,Undirected,591,,,1,verbal
+James Bond,guard 1,Undirected,592,,,1,verbal
+James Bond,guard 2,Undirected,593,,,1,verbal
+James Bond,janitor,Undirected,594,,,1,verbal
+James Bond,killer 7,Undirected,595,,,1,verbal
+James Bond,killer 8,Undirected,596,,,1,verbal
+James Bond,mouse,Undirected,597,,,1,verbal
+James Bond,security guard,Undirected,598,,,1,verbal
+James Bond,steward,Undirected,599,,,1,verbal
+James Bond,waiter,Undirected,600,,,1,verbal
+Madeleine,Q,Undirected,601,,,1,verbal
+Madeleine,chauffeur,Undirected,602,,,1,verbal
+Madeleine,waiter,Undirected,603,,,1,verbal
+Moneypenny,boyfriend,Undirected,606,,,1,verbal
+Moreau,Vogel,Undirected,607,,,1,verbal
+M,Madeleine,Undirected,608,,,1,verbal
+M,Moneypenny,Undirected,609,,,5,verbal
+M,Tanner,Undirected,611,,,5,verbal
+Q,Q's assistant,Undirected,612,,,1,verbal
+Q,barman,Undirected,614,,,1,verbal
+Sciarra,suited man,Undirected,615,,,1,verbal
+Blofeld,Butler,Undirected,616,,,1,context
+Sciarra,Lucia,Undirected,617,,,1,context
+guard 1,Blofeld,Undirected,618,,,1,context
+guard 2,Blofeld,Undirected,619,,,1,context
+guard 2,Butler,Undirected,620,,,1,context
+guard 1,Butler,Undirected,621,,,1,

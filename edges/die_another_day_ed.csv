@@ -1,0 +1,111 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Alvarez,Jinx,Undirected,298,,,1,verbal
+Chang,Chang's agent girl,Undirected,299,,,1,verbal
+Chang,James Bond,Undirected,300,,,5,verbal
+Chang,receptionist,Undirected,301,,,2,verbal
+Chang's agent girl,James Bond,Undirected,302,,,2,verbal
+Creep,Fidel,Undirected,303,,,1,verbal
+Creep,James Bond,Undirected,304,,,1,verbal
+Creep's girl,James Bond,Undirected,305,,,1,verbal
+Falco,James Bond,Undirected,306,,,2,verbal
+Falco,Jinx,Undirected,307,,,3,verbal
+Falco,M,Undirected,308,,,7,verbal
+Falco,Robinson,Undirected,309,,,3,verbal
+Graves (Moon),Graves (Moon)'s soldiers,Undirected,310,,,3,verbal
+Graves (Moon),James Bond,Undirected,311,,,14,verbal
+Graves (Moon),Miranda,Undirected,312,,,8,verbal
+Graves (Moon),Verity,Undirected,313,,,2,verbal
+Graves (Moon),Vlad,Undirected,314,,,8,verbal
+Graves (Moon),Zao,Undirected,315,,,7,verbal
+Graves (Moon),general Moon,Undirected,316,,,3,verbal
+Graves (Moon),generals,Undirected,317,,,3,verbal
+Graves (Moon),korean soldier,Undirected,318,,,1,verbal
+Graves (Moon),reporters,Undirected,319,,,1,verbal
+Graves (Moon)' guards,Zao,Undirected,320,,,2,verbal
+Graves (Moon)' guard,James Bond,Undirected,321,,,1,verbal
+Graves (Moon)'s soldiers,Zao,Undirected,322,,,3,verbal
+Graves (Moon)'s soldiers,general Moon,Undirected,323,,,3,verbal
+reporters,reporter,Undirected,427,,,1,nonverbal
+James Bond,Jinx,Undirected,325,,,15,verbal
+James Bond,Kil,Undirected,326,,,3,verbal
+James Bond,M,Undirected,327,,,3,verbal
+James Bond,Miranda,Undirected,328,,,11,verbal
+James Bond,Q,Undirected,329,,,1,verbal
+James Bond,Raoul,Undirected,330,,,4,verbal
+James Bond,Robinson,Undirected,331,,,3,verbal
+James Bond,Van Bierk,Undirected,332,,,1,verbal
+James Bond,Verity,Undirected,333,,,2,verbal
+James Bond,Zao,Undirected,334,,,10,verbal
+James Bond,air hostess,Undirected,335,,,1,verbal
+James Bond,barman,Undirected,336,,,1,verbal
+James Bond,club worker,Undirected,337,,,1,verbal
+James Bond,general Moon,Undirected,338,,,4,verbal
+James Bond,guard,Undirected,339,,,1,verbal
+James Bond,receptionist,Undirected,340,,,1,verbal
+James Bond,salesman,Undirected,341,,,2,verbal
+Jinx,M,Undirected,342,,,1,verbal
+Jinx,Miranda,Undirected,343,,,5,verbal
+Jinx,Robinson,Undirected,344,,,3,verbal
+Jinx,Zao,Undirected,345,,,4,verbal
+Jinx,guards,Undirected,346,,,1,verbal
+Kil,Zao,Undirected,347,,,2,verbal
+Miranda,Verity,Undirected,348,,,1,verbal
+Miranda,Vlad,Undirected,349,,,2,verbal
+Miranda,Zao,Undirected,350,,,2,verbal
+Miranda,generals,Undirected,351,,,1,verbal
+Miranda,reporter,Undirected,352,,,1,verbal
+Miranda,reporters,Undirected,353,,,1,verbal
+Moneypenny,Q,Undirected,354,,,1,verbal
+Moneypenny,Robinson,Undirected,355,,,1,verbal
+M,Miranda,Undirected,356,,,1,verbal
+M,Robinson,Undirected,357,,,4,verbal
+Raoul,salesman,Undirected,358,,,3,verbal
+Vlad,Zao,Undirected,359,,,1,verbal
+Vlad,generals,Undirected,360,,,1,verbal
+Zao,general Moon,Undirected,361,,,1,verbal
+Zao,generals,Undirected,362,,,1,verbal
+Zao,korean guard,Undirected,363,,,1,verbal
+doctor,nurse,Undirected,364,,,2,verbal
+korean soldier 1,korean soldier 2,Undirected,365,,,2,verbal
+Graves (Moon),Jinx,Undirected,367,,,1,nonverbal
+Graves (Moon)' guards,James Bond,Undirected,370,,,2,nonverbal
+Graves (Moon)' guards,Jinx,Undirected,371,,,1,nonverbal
+Graves (Moon)' guards,Miranda,Undirected,372,,,1,nonverbal
+Graves (Moon)' guard,Kil,Undirected,374,,,1,nonverbal
+Graves (Moon)' guard,Vlad,Undirected,375,,,1,nonverbal
+Graves (Moon)'s soldiers,James Bond,Undirected,376,,,4,nonverbal
+Jinx,Graves (Moon)' worker,Undirected,426,,,1,verbal
+James Bond,american soldiers,Undirected,384,,,1,nonverbal
+James Bond,doctor,Undirected,385,,,1,nonverbal
+James Bond,korean soldiers,Undirected,386,,,1,nonverbal
+James Bond,man 1,Undirected,387,,,1,nonverbal
+James Bond,man 2,Undirected,388,,,1,nonverbal
+James Bond,nurse,Undirected,389,,,1,nonverbal
+Jinx,Kil,Undirected,390,,,2,nonverbal
+Jinx,guard,Undirected,393,,,1,nonverbal
+Jinx,korean soldiers,Undirected,394,,,1,nonverbal
+Kil,Vlad,Undirected,395,,,1,nonverbal
+Van Bierk,pilot,Undirected,400,,,1,nonverbal
+Vlad,general Moon,Undirected,401,,,1,nonverbal
+general Moon,generals,Undirected,403,,,1,nonverbal
+general Moon,korean soldier,Undirected,404,,,1,nonverbal
+man 1,man 2,Undirected,405,,,2,nonverbal
+man 1,pilot,Undirected,406,,,1,nonverbal
+man 2,pilot,Undirected,407,,,1,nonverbal
+Alvarez,Creep,Undirected,408,,,1,context
+Alvarez,Zao,Undirected,409,,,1,context
+Creep,Creep's girl,Undirected,410,,,1,context
+Falco,american soldiers,Undirected,411,,,1,context
+Graves (Moon),Graves (Moon)' guard,Undirected,412,,,1,context
+Graves (Moon),Graves (Moon)' guards,Undirected,413,,,1,context
+Graves (Moon),Graves (Moon)' worker,Undirected,414,,,1,context
+Graves (Moon),korean soldiers,Undirected,415,,,1,context
+M,Moneypenny,Undirected,416,,,1,context
+M,Q,Undirected,417,,,1,context
+M,american soldiers,Undirected,418,,,1,context
+M,club worker,Undirected,419,,,1,context
+korean soldier 1,korean soldiers,Undirected,421,,,1,context
+korean soldier 2,korean soldiers,Undirected,422,,,1,context
+korean soldier,korean soldier 1,Undirected,423,,,1,context
+korean soldier,korean soldier 2,Undirected,424,,,1,context
+korean soldier,korean soldiers,Undirected,425,,,1,context

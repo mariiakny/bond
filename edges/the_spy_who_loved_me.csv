@@ -1,0 +1,109 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+1st seaman,2nd seaman,Undirected,728,,,1,verbal
+1st seaman,Carter,Undirected,729,,,1,verbal
+2nd seaman,Carter,Undirected,730,,,1,verbal
+Anya,Carter,Undirected,731,,,4,verbal
+Anya,Fekkesh,Undirected,732,,,1,verbal
+Anya,Gogol,Undirected,733,,,6,verbal
+Anya,Gray,Undirected,734,,,1,verbal
+Anya,James Bond,Undirected,735,,,41,verbal
+Anya,Jaws,Undirected,736,,,4,verbal
+Anya,Kalba,Undirected,737,,,2,verbal
+Anya,M,Undirected,738,,,4,verbal
+Anya,Naomi,Undirected,739,,,3,verbal
+Anya,Q,Undirected,740,,,4,verbal
+Anya,Sergei,Undirected,741,,,1,verbal
+Anya,Stromberg,Undirected,742,,,4,verbal
+Anya,barman,Undirected,743,,,1,verbal
+Anya,boatman,Undirected,744,,,1,verbal
+Anya,executive officer,Undirected,745,,,2,verbal
+Anya,receptionist,Undirected,746,,,1,verbal
+Bechmann,Markovitz,Undirected,747,,,5,verbal
+Bechmann,Stromberg,Undirected,748,,,3,verbal
+Bensons,Naval,Undirected,749,,,1,verbal
+Benson,Gray,Undirected,750,,,2,verbal
+Benson,Hargreaves,Undirected,751,,,2,verbal
+Benson,James Bond,Undirected,752,,,4,verbal
+Benson,Q,Undirected,753,,,1,verbal
+Benson,someone,Undirected,754,,,1,verbal
+Carter,James Bond,Undirected,755,,,9,verbal
+Carter,Stromberg,Undirected,756,,,1,verbal
+Carter,executive officer,Undirected,757,,,3,verbal
+Carter,sailor,Undirected,758,,,1,verbal
+Carter,sailors,Undirected,759,,,1,verbal
+Felicca,James Bond,Undirected,760,,,1,verbal
+Gogol,Gray,Undirected,761,,,2,verbal
+Gogol,James Bond,Undirected,762,,,4,verbal
+Gogol,M,Undirected,763,,,5,verbal
+Gogol,Q,Undirected,764,,,4,verbal
+Gogol,Rubelvitch,Undirected,765,,,2,verbal
+Gogol,chairman,Undirected,766,,,1,verbal
+Gray,Hargreaves,Undirected,767,,,1,verbal
+Gray,James Bond,Undirected,768,,,5,verbal
+Gray,M,Undirected,769,,,2,verbal
+Gray,Q,Undirected,770,,,3,verbal
+Hargreaves,James Bond,Undirected,771,,,2,verbal
+Hargreaves,Q,Undirected,772,,,1,verbal
+Hosein,James Bond,Undirected,773,,,1,verbal
+James Bond,Kalba,Undirected,774,,,3,verbal
+James Bond,M,Undirected,775,,,6,verbal
+James Bond,Moneypenny,Undirected,776,,,1,verbal
+James Bond,Naomi,Undirected,777,,,4,verbal
+James Bond,Q,Undirected,778,,,8,verbal
+James Bond,Sandor,Undirected,779,,,1,verbal
+James Bond,Stromberg,Undirected,780,,,5,verbal
+James Bond,Talbot,Undirected,781,,,1,verbal
+James Bond,arab guide,Undirected,782,,,1,verbal
+James Bond,barman,Undirected,783,,,1,verbal
+James Bond,boatman,Undirected,784,,,2,verbal
+James Bond,capitan,Undirected,785,,,1,verbal
+James Bond,executive officer,Undirected,786,,,4,verbal
+James Bond,girl,Undirected,787,,,1,verbal
+James Bond,receptionist,Undirected,788,,,3,verbal
+James Bond,steward,Undirected,789,,,1,verbal
+Jaws,Stromberg,Undirected,790,,,2,verbal
+Kalba,steward,Undirected,791,,,1,verbal
+Markovitz,Stromberg,Undirected,792,,,3,verbal
+M,Moneypenny,Undirected,793,,,1,verbal
+M,Q,Undirected,794,,,4,verbal
+M,prime minister,Undirected,795,,,1,verbal
+Naomi,Stromberg,Undirected,796,,,1,verbal
+Sandor,Stromberg,Undirected,797,,,1,verbal
+Sergei,girl,Undirected,798,,,1,verbal
+Stromberg,Stromberg's Assistant,Undirected,799,,,1,verbal
+Stromberg,capitan,Undirected,800,,,6,verbal
+Stromberg,guard,Undirected,801,,,1,verbal
+Talbot,chief engineer,Undirected,802,,,2,verbal
+Talbot,executive officer,Undirected,803,,,1,verbal
+Talbot,radar man,Undirected,804,,,1,verbal
+Talbot,radio operator,Undirected,805,,,1,verbal
+Talbot,sailors,Undirected,806,,,1,verbal
+Talbot,sonar man,Undirected,807,,,1,verbal
+capitan,crew,Undirected,808,,,4,verbal
+capitan,monitor,Undirected,809,,,1,verbal
+Anya,guard,Undirected,814,,,1,nonverbal
+Anya,killer,Undirected,815,,,1,nonverbal
+Bechmann,Naomi,Undirected,817,,,1,nonverbal
+Bechmann,Stromberg's Assistant,Undirected,819,,,1,nonverbal
+Boris,Ivan,Undirected,820,,,2,nonverbal
+Boris,James Bond,Undirected,821,,,1,nonverbal
+Fekkesh,Jaws,Undirected,822,,,1,nonverbal
+Felicca,Sandor,Undirected,823,,,1,nonverbal
+Ivan,James Bond,Undirected,824,,,1,nonverbal
+James Bond,Jaws,Undirected,825,,,5,nonverbal
+James Bond,Sergei,Undirected,827,,,1,nonverbal
+James Bond,Sergei's people,Undirected,828,,,1,nonverbal
+James Bond,killer,Undirected,829,,,1,nonverbal
+Jaws,Kalba,Undirected,830,,,1,nonverbal
+Jaws,Sandor,Undirected,831,,,1,nonverbal
+Markovitz,Naomi,Undirected,832,,,1,nonverbal
+Markovitz,Stromberg's Assistant,Undirected,834,,,1,nonverbal
+Naomi,Stromberg's Assistant,Undirected,835,,,1,nonverbal
+Sergei,Sergei's people,Undirected,836,,,1,nonverbal
+crew,sailors,Undirected,837,,,1,nonverbal
+Anya,Boris,Undirected,838,,,1,context
+Anya,Ivan,Undirected,839,,,1,context
+Anya,Rubelvitch,Undirected,840,,,1,context
+Fekkesh,Felicca,Undirected,842,,,1,context
+Gogol,Sergei,Undirected,843,,,1,context
+Stromberg,killer,Undirected,844,,,1,context

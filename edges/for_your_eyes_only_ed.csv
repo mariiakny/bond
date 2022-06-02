@@ -1,0 +1,120 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Apostis,Kriegler,Undirected,595,,,1,verbal
+Apostis,Kristatos,Undirected,596,,,2,verbal
+Bibi,Brink,Undirected,597,,,7,verbal
+Bibi,Ferrara,Undirected,598,,,1,verbal
+Bibi,James Bond,Undirected,599,,,6,verbal
+Bibi,Kriegler,Undirected,600,,,2,verbal
+Bibi,Kristatos,Undirected,601,,,5,verbal
+Blofeld,James Bond,Undirected,602,,,1,verbal
+Brink,Ferrara,Undirected,603,,,1,verbal
+Brink,James Bond,Undirected,604,,,2,verbal
+Brink,Kristatos,Undirected,605,,,2,verbal
+Columbo's men,James Bond,Undirected,606,,,2,verbal
+Columbo's men,Melina,Undirected,607,,,3,verbal
+Columbo,Columbo's men,Undirected,608,,,3,verbal
+Columbo,James Bond,Undirected,609,,,7,verbal
+Columbo,Kristatos,Undirected,610,,,1,verbal
+Columbo,Lisl,Undirected,611,,,1,verbal
+Columbo,Melina,Undirected,612,,,5,verbal
+Ferrara,James Bond,Undirected,613,,,6,verbal
+Ferrara,Kristatos,Undirected,614,,,4,verbal
+Gogol,James Bond,Undirected,615,,,1,verbal
+Gogol,secretary,Undirected,616,,,1,verbal
+Gonzales,Gonzales's men,Undirected,617,,,1,verbal
+Gonzales,James Bond,Undirected,618,,,1,verbal
+M,Q,Undirected,728,,,1,context
+Gonzales,Melina,Undirected,620,,,4,verbal
+Havelock,Iona,Undirected,621,,,3,verbal
+Havelock,Melina,Undirected,622,,,3,verbal
+Helmsman,Kristatos,Undirected,623,,,2,verbal
+Iona,Melina,Undirected,624,,,3,verbal
+James Bond,Kristatos,Undirected,625,,,13,verbal
+James Bond,Lisl,Undirected,626,,,3,verbal
+James Bond,Locque,Undirected,627,,,5,verbal
+James Bond,M,Undirected,628,,,1,verbal
+James Bond,Maitre D,Undirected,629,,,1,verbal
+James Bond,Max,Undirected,630,,,1,verbal
+James Bond,Melina,Undirected,631,,,20,verbal
+James Bond,Moneypenny,Undirected,632,,,1,verbal
+James Bond,Q,Undirected,633,,,4,verbal
+James Bond,Sheren,Undirected,634,,,1,verbal
+James Bond,chief of staff,Undirected,635,,,3,verbal
+James Bond,dealer,Undirected,636,,,1,verbal
+James Bond,driver,Undirected,637,,,1,verbal
+James Bond,fat man,Undirected,638,,,1,verbal
+James Bond,girl,Undirected,639,,,1,verbal
+James Bond,jumpmaster,Undirected,640,,,1,verbal
+James Bond,minister,Undirected,641,,,3,verbal
+James Bond,vicar,Undirected,642,,,1,verbal
+Kriegler,Kristatos,Undirected,643,,,2,verbal
+Kristatos,Maitre D,Undirected,644,,,1,verbal
+Kristatos,Melina,Undirected,645,,,2,verbal
+Lisl,dealer,Undirected,646,,,1,verbal
+Lisl,fat man,Undirected,647,,,2,verbal
+Mate,Melina,Undirected,648,,,1,verbal
+Max,Melina,Undirected,649,,,1,verbal
+Melina,driver,Undirected,650,,,1,verbal
+Melina,salesman,Undirected,651,,,1,verbal
+M,minister,Undirected,652,,,2,verbal
+Q,Sheren,Undirected,653,,,2,verbal
+Q,assistant,Undirected,654,,,1,verbal
+Q,chief of staff,Undirected,655,,,2,verbal
+Q,minister,Undirected,656,,,2,verbal
+aide,minister,Undirected,657,,,1,verbal
+capitan,junior officer,Undirected,658,,,1,verbal
+capitan,second junior officer,Undirected,659,,,1,verbal
+capitan,sonar operator 1,Undirected,660,,,2,verbal
+chief of staff,minister,Undirected,661,,,4,verbal
+chief of staff,prime minister,Undirected,662,,,1,verbal
+dealer,fat man,Undirected,663,,,3,verbal
+first sea lord,minister,Undirected,664,,,1,verbal
+first sea lord,vice admiral,Undirected,665,,,1,verbal
+junior officer,sonar operator 1,Undirected,666,,,1,verbal
+minister,vice admiral,Undirected,667,,,1,verbal
+sonar operator 1,sonar operator 2,Undirected,668,,,1,verbal
+Apostis,James Bond,Undirected,669,,,2,nonverbal
+Apostis,Melina,Undirected,670,,,1,nonverbal
+Bibi,Columbo,Undirected,672,,,1,nonverbal
+Blofeld,pilot,Undirected,674,,,1,nonverbal
+Brink,Columbo,Undirected,675,,,2,nonverbal
+Brink,Columbo's men,Undirected,676,,,1,nonverbal
+Brink,Melina,Undirected,677,,,1,nonverbal
+Columbo,Columbo's men,Undirected,680,,,1,nonverbal
+Columbo,Locque,Undirected,682,,,1,nonverbal
+Columbo,Locque's people,Undirected,683,,,1,nonverbal
+Columbo's men,James Bond,Undirected,685,,,2,nonverbal
+Columbo's men,Locque,Undirected,686,,,1,nonverbal
+Columbo's men,Locque's people,Undirected,687,,,1,nonverbal
+Gogol,Rublevich,Undirected,688,,,1,nonverbal
+Gonzales's men,James Bond,Undirected,689,,,2,nonverbal
+Gonzales's men,Melina,Undirected,690,,,1,nonverbal
+Gonzales,Havelock,Undirected,691,,,1,nonverbal
+Gonzales,Iona,Undirected,692,,,1,nonverbal
+James Bond,Kriegler,Undirected,697,,,5,nonverbal
+James Bond,Kristatos' men,Undirected,698,,,1,nonverbal
+James Bond,Locque's people,Undirected,701,,,1,nonverbal
+James Bond,killers,Undirected,703,,,4,nonverbal
+James Bond,pilot,Undirected,704,,,1,nonverbal
+Kriegler,Kristatos' men,Undirected,705,,,1,nonverbal
+Kriegler,Locque,Undirected,706,,,3,nonverbal
+Kriegler,Melina,Undirected,707,,,1,nonverbal
+Kriegler,killers,Undirected,708,,,3,nonverbal
+Kristatos' men,Melina,Undirected,709,,,1,nonverbal
+Lisl,Locque,Undirected,710,,,1,nonverbal
+Locque,Locque's people,Undirected,711,,,1,nonverbal
+Locque,killers,Undirected,712,,,3,nonverbal
+Melina,killers,Undirected,713,,,1,nonverbal
+capitan,sonar operator 2,Undirected,714,,,1,nonverbal
+Ferrara,Locque,Undirected,715,,,1,context
+Ferrara,chief of staff,Undirected,716,,,1,context
+Gogol,Kriegler,Undirected,717,,,1,context
+Havelock,chief of staff,Undirected,718,,,1,context
+Kristatos,Kristatos' men,Undirected,721,,,1,context
+Kristatos,Locque,Undirected,722,,,1,context
+Moneypenny,chief of staff,Undirected,724,,,1,context
+Moneypenny,minister,Undirected,725,,,1,context
+M,chief of staff,Undirected,726,,,1,context
+Gonzales,Locque,Undirected,727,,,1,verbal
+M,Moneypenny,Undirected,729,,,1,context
+Q,Moneypenny,Undirected,730,,,1,context

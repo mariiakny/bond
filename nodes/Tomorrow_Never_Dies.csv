@@ -1,0 +1,54 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;31;114;1;0.658;0.694
+4;Stamper;m;16;51;0.442;0.525;0.227
+2;Carver;m;15;75;0.655;0.515;0.209
+7;Roebuck;m;7;32;0.274;0.456;0.192
+19;captain 1;m;4;6;0.044;0.377;0.076
+20;admiral;m;3;6;0.044;0.323;0.076
+5;M;f;8;47;0.407;0.448;0.053
+26;terrorists;n;5;5;0.035;0.416;0.04
+32;captain;m;2;4;0.027;0.319;0.038
+3;Wai Lin;f;10;53;0.46;0.481;0.03
+25;captain 2;m;3;5;0.035;0.354;0.019
+36;soldier;m;3;3;0.018;0.354;0.019
+6;Robinson;m;7;34;0.292;0.444;0.015
+9;Gupta;m;7;18;0.15;0.468;0.011
+37;killers;n;3;3;0.018;0.413;0.008
+11;Paris;f;4;12;0.097;0.441;0.003
+12;guards;n;7;11;0.088;0.468;0.002
+38;Chang;m;3;3;0.018;0.349;0.002
+21;Q;m;5;5;0.035;0.419;0.002
+17;Tom;m;4;8;0.062;0.409;0.000754
+13;Thug 2;m;5;11;0.088;0.441;0.000503
+8;Stamper's men;n;7;19;0.159;0.468;0.000251
+15;Carver's soldiers;n;6;9;0.071;0.464;0.000126
+18;Thug 1;m;4;7;0.053;0.437;0
+28;Thug 3;m;4;4;0.027;0.437;0
+10;minister;m;4;14;0.115;0.433;0
+30;Carver's assistant girl;f;2;4;0.027;0.43;0
+31;Kaufman;m;2;4;0.027;0.43;0
+16;Moneypenny;f;4;9;0.071;0.416;0
+29;Greenwalt;m;3;4;0.027;0.406;0
+35;US soldier;m;3;3;0.018;0.406;0
+40;terrorist;m;2;2;0.009;0.406;0
+43;office workers;n;2;2;0.009;0.406;0
+44;terrorist pilot 1;m;2;2;0.009;0.406;0
+45;terrorist pilot 2;m;2;2;0.009;0.406;0
+41;waiter;m;2;2;0.009;0.403;0
+48;Inga;f;1;1;0;0.4;0
+49;receptionist girl;f;1;1;0;0.4;0
+42;Wai Lin's man;m;2;2;0.009;0.356;0
+22;Hobbs;m;4;5;0.035;0.349;0
+23;Jones;m;4;5;0.035;0.349;0
+24;Walleys;m;4;5;0.035;0.349;0
+27;Mary;f;4;4;0.027;0.349;0
+53;sailors;n;1;1;0;0.347;0
+14;Bukharin;m;3;10;0.08;0.325;0
+50;agent;m;1;1;0;0.311;0
+52;terrorist leader;m;1;1;0;0.295;0
+39;sailors;n;1;3;0.018;0.275;0
+51;chinese pilot;m;1;1;0;0.275;0
+33;soldiers;n;2;4;0.027;0.264;0
+34;officer;m;1;4;0.027;0.245;0
+47;Chinese admiral;m;1;1;0;0.245;0
+46;firing officer;m;1;2;0.009;0.243;0

@@ -1,0 +1,128 @@
+Source,Target,Type,Id,Label,timeset,Weight,communication
+Beam,Dominic,Undirected,103,,,4,verbal
+Beam,Elvis,Undirected,104,,,2,verbal
+Beam,Leiter,Undirected,105,,,7,verbal
+Beam,M,Undirected,106,,,1,verbal
+Camille,Dominic,Undirected,107,,,7,verbal
+Camille,Elvis,Undirected,108,,,1,verbal
+Camille,James Bond,Undirected,109,,,18,verbal
+Camille,Medrano,Undirected,110,,,4,verbal
+Camille,investors,Undirected,111,,,1,verbal
+Carlos,Dominic,Undirected,112,,,2,verbal
+Carlos,James Bond,Undirected,113,,,3,verbal
+Carlos,Mathis,Undirected,114,,,2,verbal
+Carlos,Medrano,Undirected,115,,,3,verbal
+Carlos,Medrano's soldier,Undirected,116,,,1,verbal
+Carlos,Strawberry,Undirected,117,,,1,verbal
+Carlos,bolivian girl,Undirected,118,,,1,verbal
+Corrine,James Bond,Undirected,119,,,2,verbal
+Corrine,Yusef,Undirected,120,,,3,verbal
+Dominic,Elvis,Undirected,121,,,6,verbal
+Dominic,Haines,Undirected,122,,,4,verbal
+Dominic,James Bond,Undirected,123,,,5,verbal
+Dominic,Karakin,Undirected,124,,,2,verbal
+Dominic,Leiter,Undirected,125,,,2,verbal
+Dominic,Medrano,Undirected,126,,,6,verbal
+Dominic,Quantum members,Undirected,127,,,2,verbal
+Dominic,White,Undirected,128,,,2,verbal
+Dominic,investors,Undirected,129,,,3,verbal
+Dominic's guard,Elvis,Undirected,130,,,1,verbal
+Dominic's guard,James Bond,Undirected,131,,,1,verbal
+Elvis,Leiter,Undirected,132,,,2,verbal
+Elvis,Strawberry,Undirected,133,,,1,verbal
+Elvis,investors,Undirected,134,,,1,verbal
+Gemma,James Bond,Undirected,135,,,1,verbal
+Gemma,Mathis,Undirected,136,,,3,verbal
+Haines,James Bond,Undirected,137,,,2,verbal
+Haines,Karakin,Undirected,138,,,2,verbal
+Haines,Quantum members,Undirected,139,,,2,verbal
+Haines,White,Undirected,140,,,2,verbal
+Haines' guard,James Bond,Undirected,141,,,1,verbal
+James Bond,Karakin,Undirected,142,,,1,verbal
+James Bond,Leiter,Undirected,143,,,2,verbal
+James Bond,M,Undirected,144,,,18,verbal
+James Bond,MI6 agent 2,Undirected,145,,,2,verbal
+James Bond,MI6 agent 3,Undirected,146,,,1,verbal
+James Bond,MI6 agent 4,Undirected,147,,,2,verbal
+James Bond,MI6 agent 5,Undirected,148,,,2,verbal
+James Bond,Mathis,Undirected,149,,,11,verbal
+James Bond,Mitchel,Undirected,150,,,4,verbal
+James Bond,Quantum members,Undirected,151,,,1,verbal
+James Bond,Strawberry,Undirected,152,,,6,verbal
+James Bond,Tanner,Undirected,153,,,7,verbal
+James Bond,White,Undirected,154,,,4,verbal
+James Bond,Yusef,Undirected,155,,,2,verbal
+James Bond,barman,Undirected,156,,,1,verbal
+James Bond,bolivian policeman 1,Undirected,157,,,2,verbal
+James Bond,bolivian receptionist 2,Undirected,158,,,2,verbal
+James Bond,clerk girl,Undirected,159,,,1,verbal
+James Bond,driver,Undirected,160,,,1,verbal
+James Bond,killer,Undirected,161,,,1,verbal
+James Bond,receptionist,Undirected,162,,,1,verbal
+James Bond,salesman,Undirected,163,,,1,verbal
+Karakin,Quantum members,Undirected,164,,,2,verbal
+Karakin,White,Undirected,165,,,2,verbal
+MI6 agent 2,MI6 agent 3,Undirected,166,,,1,verbal
+MI6 agent 2,Tanner,Undirected,167,,,3,verbal
+MI6 agent 3,Tanner,Undirected,168,,,1,verbal
+MI6 agent 4,MI6 agent 5,Undirected,169,,,2,verbal
+MI6 agent 4,Tanner,Undirected,170,,,1,verbal
+Mathis,Strawberry,Undirected,171,,,2,verbal
+Mathis,barman,Undirected,172,,,1,verbal
+Mathis,bolivian taxi driver,Undirected,173,,,2,verbal
+Medrano,Medrano's guards,Undirected,174,,,1,verbal
+Medrano,Medrano's soldier,Undirected,175,,,1,verbal
+Medrano,bolivian girl,Undirected,176,,,2,verbal
+M,MI6 agent 2,Undirected,177,,,3,verbal
+M,MI6 agent 3,Undirected,178,,,1,verbal
+M,MI6 agent 4,Undirected,179,,,1,verbal
+M,MI6 agent 5,Undirected,180,,,1,verbal
+M,Mitchel,Undirected,181,,,3,verbal
+M,Tanner,Undirected,182,,,16,verbal
+M,White,Undirected,183,,,2,verbal
+M,foreign secretary,Undirected,184,,,1,verbal
+Quantum members,White,Undirected,185,,,2,verbal
+Strawberry,bolivian receptionist 1,Undirected,186,,,1,verbal
+White,White's girlfriend,Undirected,187,,,1,verbal
+bolivian policeman 1,bolivian policeman 2,Undirected,188,,,2,verbal
+hostess,man with glasses,Undirected,189,,,1,verbal
+CIA agents,James Bond,Undirected,190,,,1,nonverbal
+CIA agents,Leiter,Undirected,191,,,1,nonverbal
+Camille,Mathis,Undirected,193,,,1,nonverbal
+Camille,Medrano's guard,Undirected,195,,,1,nonverbal
+Camille,Medrano's guards,Undirected,196,,,1,nonverbal
+Camille,Medrano's soldiers,Undirected,197,,,1,nonverbal
+Camille,bolivian girl,Undirected,198,,,1,nonverbal
+Camille,pilot 1,Undirected,199,,,1,nonverbal
+Camille,pilot 2,Undirected,200,,,1,nonverbal
+Carlos,Elvis,Undirected,202,,,1,nonverbal
+Carlos,Haines,Undirected,203,,,1,nonverbal
+Elvis,Haines,Undirected,207,,,2,nonverbal
+Elvis,Medrano,Undirected,208,,,1,nonverbal
+Haines,Haines' guard,Undirected,209,,,1,nonverbal
+Haines,Medrano,Undirected,211,,,1,nonverbal
+James Bond,MI6 agent 1,Undirected,214,,,1,nonverbal
+James Bond,Medrano's guards,Undirected,217,,,1,nonverbal
+James Bond,Medrano's soldiers,Undirected,218,,,1,nonverbal
+James Bond,Slate,Undirected,220,,,1,nonverbal
+James Bond,bolivian policeman 2,Undirected,223,,,1,nonverbal
+James Bond,italien police,Undirected,224,,,1,nonverbal
+James Bond,killers,Undirected,225,,,1,nonverbal
+James Bond,killers 1,Undirected,226,,,2,nonverbal
+James Bond,killers 2,Undirected,227,,,1,nonverbal
+James Bond,man with glasses,Undirected,228,,,1,nonverbal
+James Bond,pilot 1,Undirected,229,,,1,nonverbal
+James Bond,pilot 2,Undirected,230,,,1,nonverbal
+MI6 agent 1,Mitchel,Undirected,231,,,1,nonverbal
+MI6 agent 1,White,Undirected,232,,,1,nonverbal
+Medrano,Medrano's guard,Undirected,234,,,1,nonverbal
+Mitchel,White,Undirected,236,,,1,nonverbal
+M,MI6 agent 1,Undirected,237,,,1,nonverbal
+italien police,killers 1,Undirected,240,,,1,nonverbal
+Camille,Tanner,Undirected,241,,,1,context
+Dominic,Slate,Undirected,243,,,1,context
+Dominic,Strawberry,Undirected,244,,,1,context
+Dominic,pilot 1,Undirected,245,,,1,context
+Dominic,pilot 2,Undirected,246,,,1,context
+Dominic,salesman,Undirected,247,,,1,context
+Strawberry,bolivian receptionist 2,Undirected,248,,,1,context

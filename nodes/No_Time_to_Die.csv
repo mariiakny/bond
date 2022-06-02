@@ -1,0 +1,31 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;22;191;1;0.806;0.449
+4;Madeleine;f;14;63;0.326;0.644;0.164
+2;Nomi;f;13;85;0.442;0.644;0.135
+8;Valdo;m;10;29;0.147;0.58;0.122
+5;M;m;8;61;0.316;0.547;0.08
+15;spectre agents;n;9;15;0.074;0.569;0.062
+10;Safin;m;10;28;0.142;0.58;0.048
+11;Primo;m;9;22;0.111;0.58;0.031
+12;Leiter;m;5;21;0.105;0.518;0.009
+14;Ash;m;6;16;0.079;0.527;0.006
+13;Paloma;f;6;19;0.095;0.527;0.004
+6;Tanner;m;6;55;0.284;0.527;0.003
+9;Mathilde;f;5;29;0.147;0.509;0.002
+19;killers;n;5;5;0.021;0.5;0.002
+17;Hardy;m;4;6;0.026;0.408;0.002
+17;Safin's guards;n;4;6;0.026;0.5;0.000704
+20;Symes;f;3;5;0.021;0.403;0.000704
+3;Q;m;5;74;0.384;0.5;0
+7;Moneypenny;f;5;46;0.237;0.5;0
+16;Blofeld;m;3;8;0.037;0.5;0
+21;porter;m;2;4;0.016;0.475;0
+22;boy;m;2;2;0.005;0.46;0
+22;old man;m;2;2;0.005;0.46;0
+25;MI6 guard;m;1;1;0;0.453;0
+25;bartender;m;1;1;0;0.453;0
+22;mother;f;2;2;0.005;0.42;0
+25;receptionist girl;f;1;1;0;0.397;0
+25;woman;f;1;1;0;0.397;0
+25;Svetlana;f;1;1;0;0.372;0
+25;admiral;m;1;1;0;0.358;0

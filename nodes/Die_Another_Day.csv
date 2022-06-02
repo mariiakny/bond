@@ -1,0 +1,48 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;32;102;1;0.767;0.69
+3;Jinx;f;14;40;0.386;0.575;0.116
+2;Graves (Moon);m;15;55;0.535;0.575;0.1
+5;Miranda;f;11;34;0.327;0.541;0.08
+4;Zao;m;12;35;0.337;0.541;0.074
+6;M;f;9;20;0.188;0.517;0.035
+9;general Moon;m;7;14;0.129;0.511;0.022
+17;korean soldiers;n;6;6;0.05;0.505;0.08
+15;Graves (Moon)' guards;n;5;7;0.059;0.5;0
+12;Kil;m;5;9;0.079;0.484;0.006
+11;Graves (Moon)'s soldiers;n;4;13;0.119;0.484;0
+10;Robinson;m;5;14;0.129;0.474;0.013
+21;Graves (Moon)' guard;m;4;4;0.03;0.474;0.004
+7;Falco;m;5;16;0.149;0.474;0.001
+19;Verity;f;3;5;0.04;0.474;0
+21;Creep;m;4;4;0.03;0.46;0.05
+37;guard;m;2;2;0.01;0.455;0
+23;man 1;m;3;4;0.03;0.451;0.014
+23;man 2;m;3;4;0.03;0.451;0.014
+27;Q;m;3;3;0.02;0.451;0.009
+27;american soldiers;n;3;3;0.02;0.451;0
+37;Creep's girl;f;2;2;0.01;0.451;0
+37;Van Bierk;m;2;2;0.01;0.447;0.014
+13;Chang;m;3;8;0.069;0.447;0.000483
+37;club worker;m;2;2;0.01;0.447;0
+16;Raoul;m;2;7;0.059;0.442;0
+20;salesman;m;2;5;0.04;0.442;0
+33;Chang's agent girl;f;2;3;0.02;0.442;0
+33;receptionist;m;2;3;0.02;0.442;0
+33;doctor;m;2;3;0.02;0.442;0
+33;nurse;f;2;3;0.02;0.442;0
+43;air hostess;f;1;1;0;0.438;0
+43;barman;m;1;1;0;0.438;0
+8;Vlad;m;7;15;0.139;0.407;0.004
+27;Alvarez;m;3;3;0.02;0.404;0.005
+14;generals;n;5;7;0.059;0.4;0.000354
+37;Graves (Moon)' worker;m;2;2;0.01;0.397;0
+18;korean soldier;m;5;5;0.04;0.387;0.013
+27;reporters;n;3;3;0.02;0.383;0.003
+43;guards;n;1;1;0;0.368;0
+37;reporter;m;2;2;0.01;0.357;0
+43;korean guard;m;1;1;0;0.354;0
+27;Moneypenny;f;3;3;0.02;0.348;0.000322
+23;korean soldier 1;m;3;4;0.03;0.346;0
+23;korean soldier 2;m;3;4;0.03;0.346;0
+27;pilot;m;3;3;0.02;0.319;0.000966
+43;Fidel;m;1;1;0;0.317;0

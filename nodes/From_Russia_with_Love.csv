@@ -1,0 +1,62 @@
+n;name;gender;degree;weighted degree;normolized weighted degree;closeness centrality;betweenness centrality
+1;James Bond;m;30;123;1;0.667;0.477
+3;Kerim;m;16;49;0.393;0.524;0.153
+2;Tania;f;15;55;0.443;0.545;0.148
+4;Grant;m;13;26;0.205;0.54;0.142
+6;Morzeny;m;9;16;0.123;0.486;0.102
+5;Kleb;f;7;19;0.148;0.5;0.062
+7;Kronsteen;m;7;14;0.107;0.365;0.059
+8;Benz;m;8;12;0.09;0.486;0.045
+11;Krylenko;m;7;11;0.082;0.466;0.04
+23;waiter;m;4;4;0.025;0.458;0.032
+33;clerk;m;2;2;0.008;0.409;0.03
+9;Blofeld;m;6;12;0.09;0.362;0.029
+28;bulgarian 1;m;3;3;0.016;0.383;0.002
+10;Moneypenny;f;4;12;0.09;0.412;0.000565
+18;female assistant;f;3;7;0.049;0.409;0.000282
+41;1st umpire;m;1;2;0.008;1;0
+41;attendant;m;1;2;0.008;1;0
+44;guide;f;1;1;0;1;0
+44;tour group;n;1;1;0;1;0
+44;man;m;1;1;0;1;0
+44;young woman;f;1;1;0;1;0
+20;Rhoda;m;4;6;0.041;0.454;0
+13;Varva;m;5;9;0.066;0.429;0
+13;gypsy girl 1;f;5;9;0.066;0.429;0
+13;gypsy girl 2;f;5;9;0.066;0.429;0
+19;gypsy girl;f;5;6;0.041;0.429;0
+24;man in helicopter 1;m;3;4;0.025;0.429;0
+24;man in helicopter 2;m;3;4;0.025;0.429;0
+26;conductor;m;2;4;0.025;0.425;0
+31;Mahmet;m;2;3;0.016;0.419;0
+33;Kerim's waiter;m;2;2;0.008;0.419;0
+33;chauffeur;m;2;2;0.008;0.419;0
+12;M;m;3;11;0.082;0.409;0
+21;Q;m;3;6;0.041;0.409;0
+22;Sylvia;f;2;5;0.033;0.406;0
+26;concierge;m;2;4;0.025;0.406;0
+33;porter;m;2;2;0.008;0.406;0
+41;Paul;m;1;2;0.008;0.403;0
+44;doorman;m;1;1;0;0.403;0
+44;receptionist;f;1;1;0;0.403;0
+33;fake James Bond;m;2;2;0.008;0.372;0
+16;Kozlovsky;m;4;7;0.049;0.367;0
+16;Vasilev;m;4;7;0.049;0.367;0
+33;Irina;f;2;2;0.008;0.358;0
+33;Natasha;f;2;2;0.008;0.358;0
+33;bulgarian 2;m;2;2;0.008;0.355;0
+44;policeman;m;1;1;0;0.355;0
+44;Nash;m;1;1;0;0.353;0
+44;blondy girl;f;1;1;0;0.353;0
+44;1st sentry;m;1;1;0;0.346;0
+44;Kerim's assistant;m;1;1;0;0.346;0
+44;Kerim's mistress;f;1;1;0;0.346;0
+44;Kerim's people;n;1;1;0;0.346;0
+44;other man;m;1;1;0;0.329;0
+44;Green;m;1;1;0;0.329;0
+44;skipper;m;1;1;0;0.329;0
+44;Krylenko's man;m;1;1;0;0.32;0
+44;man 2;m;1;1;0;0.292;0
+28;Blofeld's man 1;m;3;3;0.016;0.271;0
+28;Blofeld's man 2;m;3;3;0.016;0.271;0
+32;Macadams;m;1;3;0.016;0.269;0
