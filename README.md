@@ -3,6 +3,6 @@
 * В папке gephi лежат файлы с проектами в Gephi.
 * В папке nodes лежат csv файлы с данными о вершинах сети каждого фильма, а также показатели, посчитанные в Gephi.
 * В папке edges лежат csv файлы с данными о ребрах сети каждого фильма и типом коммуникации
-* Файл bond.xlsx соответствует гугл-таблице по ссылке https://docs.google.com/spreadsheets/d/1mhnK3HeIu9xy1kKi5Mz8OIHTWW_BiWqQKcV4Lzl1QhM/edit?usp=sharing
+* Файл bond.xlsx соответствует гугл-таблице по ссылке (https://docs.google.com/spreadsheets/d/1rAB35CUga6aaI-hiMEd-yrLaKoRFkXdYLCzOaBQnRlk/edit?usp=sharing)
 * В файле M.csv находится информация относительно М в разных фильмах.
 * Файл bond.R - код, с помощью которого делались визуализации для работы.
