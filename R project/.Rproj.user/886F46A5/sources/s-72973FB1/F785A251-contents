@@ -1,0 +1,26 @@
+n,film,name,gender,degree,weighted degree,norm. weighted degree,closeness centrality,betweenness centrality,weighted degree position,closeness centrality position,betweenness centrality position,communication with bond percent,bond communication
+1,Dr. No,Dr. No,m,13,23,0.18,0.53,0.25,4,2,2,26,5
+2,From Russia with Love,Grant,m,13,26,0.20,0.54,0.14,4,9,4,38,8
+3,GoldFinger,Goldfinger,m,19,54,0.63,0.57,0.25,2,5,2,31,20
+4,Thunderball,Largo,m,23,57,0.53,0.59,0.30,2,5,2,19,10
+5,You Only Live Twice,Blofeld,m,10,21,0.20,0.46,0.07,4,10,6,14,3
+6,On Her Majesty's Secret Service,Blofeld,m,20,55,0.31,0.63,0.04,2,4,4,11,3
+7,Diamonds Are Forever,Blofeld,m,16,38,0.37,0.49,0.10,2,3,4,32,12
+8,Live and Let Die,Kananga,m,10,33,0.38,0.49,0.07,3,6,4,24,9
+9,The Man with the Golden Gun,Scaramanga,m,13,39,0.33,0.55,0.12,3,2,2,31,10
+10,The Spy Who Loved Me,Stromberg,m,12,29,0.24,0.53,0.10,3,5,5,17,4
+11,Moonraker,Drax,m,18,42,0.46,0.61,0.22,2,4,2,33,16
+12,For Your Eyes Only,Kristatos,m,12,36,0.33,0.53,0.05,3,8,6,36,12
+13,Octopussy,Kamal,m,20,55,0.574,0.549,0.118,2,2,4,11,6
+14,A View to Kill,Zorin,m,24,87,0.619,0.667,0.275,2,2,2,14,9
+15,The Living Daylights,Koskov,m,20,47,0.43,0.60,0.24,3,2,2,15,7
+16,License to Kill,Sanchez,m,27,124,0.68,0.62,0.16,2,4,2,14,9
+17,GoldenEye,Alec,m,11,36,0.44,0.57,0.20,3,2,3,36,16
+18,Tomorrow Never Dies,Carver,m,15,75,0.65,0.51,0.21,2,3,3,24,16
+19,The World Is Not Enough,Elektra,f,18,63,0.46,0.65,0.21,2,2,2,32,15
+20,Die Another Day,Graves (Moon),m,15,55,0.53,0.58,0.10,2,3,3,25,14
+21,Casino Royal,Le Chiffre,m,23,77,"0,54",0.62,0.11,2,2,2,22,12
+22,Quantum of solace,Dominic,m,17,50,"0,41",0.57,0.07,2,2,3,10,4
+23,Skyfall,Silva,m,13,22,"0,24",0.58,0.09,6,5,4,27,7
+24,Spectre,Blofeld,m,21,34,"0,40",0.62,0.20,4,2,2,24,10
+25,No Time to Die,Safin,m,10,28,"0,14",0.58,0.05,10,5,7,18,3

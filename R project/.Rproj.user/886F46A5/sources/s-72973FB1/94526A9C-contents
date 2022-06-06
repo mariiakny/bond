@@ -1,0 +1,26 @@
+n,film,name,gender,degree,weighted degree,norm. weighted degree,closeness centrality,betweenness centrality,weighted degree position,closeness centrality position,betweenness centrality position,communication with bond percent,bond communication percent
+1,Dr. No,Honey,f,13,44,0.358,0.385,0.122,3,38,4,50,18
+2,From Russia with Love,Tania,f,15,55,0.443,0.545,0.148,2,8,3,60,27
+3,GoldFinger,Pussy Galore,f,11,28,0.321,0.543,0.176,3,6,4,43,14
+4,Thunderball,Dominique,f,6,29,0.264,0.495,0.016,3,8,11,48,13
+5,You Only Live Twice,Aki,f,8,25,0.235,0.440,0.004,3,18,15,56,14
+6,On Her Majesty's Secret Service,Tracy,f,14,54,0.30,0.582,0.03,6,6,5,39,12
+7,Diamonds Are Forever,Tiffany,f,17,38,0.366,0.518,0.194,3,2,2,45,17
+8,Live and Let Die,Solitaire,f,13,37,0.43,0.537,0.05,2,2,10,38,16
+9,The Man with the Golden Gun,Goodnight,f,6,24,0.20,0.515,0.02,5,6,9,62,13
+10,The Spy Who Loved Me,Anya,f,21,85,0.71,0.583,0.17,2,4,2,48,34
+11,Moonraker,Holly,f,6,25,0.27,0.51,0.02,3,6,9,64,18
+12,For Your Eyes Only,Melina,f,17,50,0.47,0.56,0.12,2,7,2,40,19
+13,Octopussy,Octopussy,f,15,40,0.415,0.528,0.12,3,3,3,25,11
+14,A View to Kill,Stacey,f,14,61,0.43,0.57,0.05,4,4,5,49,21
+15,The Living Daylights,Kara,f,18,60,0.56,0.57,0.13,2,3,4,52,29
+16,License to Kill,Pam,f,20,66,0.36,0.56,0.10,3,6,4,47,17
+17,Golden Eye,Natalia,f,11,41,0.51,0.56,0.15,2,4,4,39,20
+18,Tomorrow Never Dies,Wai Lin,f,10,53,0.46,0.48,0.03,3,4,10,47,22
+19,The World Is Not Enough,Christmas,f,12,43,0.31,0.59,0.02,4,6,7,58,18
+20,Die Another Day,Jinx,f,14,40,0.39,0.58,0.12,3,2,2,38,15
+21,Casino Royal,Vesper,f,20,49,0.34,0.60,0.05,4,3,3,47,16
+22,Quantum of solace,Camille,f,13,39,0.32,0.54,0.08,4,3,2,46,15
+23,Skyfall,Severine,f,6,10,0.102,0.500,0.009,11,13,9,50,6
+24,Spectre,Madeleine1,f,11,40,0.47,0.55,0.04,2,7,5,60,29
+25,No Time to Die,Madeleine2,f,14,63,0.33,0.64,0.16,2,2,2,41,14

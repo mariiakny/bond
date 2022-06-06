@@ -1,0 +1,26 @@
+n,film,name,gender,degree,weighted degree,norm. weighted degree,closeness centrality,betweenness centrality,weighted degree position,closeness centrality position,betweenness centrality position,communication with bond percent,bond communication percent
+1,Dr. No,M,m,3,6,0.042,0.426,0.0005,24,15,16,50,2
+2,From Russia with Love,M,m,3,11,0.082,0.409,0.00,12,28,33,45,4
+3,GoldFinger,M,m,5,7,0.071,0.447,0.012,15,16,9,29,2
+4,Thunderball,M,m,8,15,0.132,0.433,0.006,8,21,15,33,5
+5,You Only Live Twice,M,m,5,7,0.0588,0.431,0.002,16,20,16,29,2
+6,On Her Majesty's Secret Service,M,m,6,15,0.08,0.535,0.044,21,20,4,27,2
+7,Diamonds Are Forever,M,m,4,8,0.069,0.411,0.0009,10,26,26,50,4
+8,Live and Let Die,M,m,5,7,0.071,0.4731,0.128,11,10,3,29,2
+9,The Man with the Golden Gun,M,m,9,19,0.155,0.505,0.014,6,7,10,32,5
+10,The Spy Who Loved Me,M,m,7,23,0.185,0.467,0.040,6,12,8,26,5
+11,Moonraker,M,m,7,19,0.202,0.50,0.067,5,7,5,37,8
+12,For Your Eyes Only,M,m,5,6,0.048,0.495,0.00,20,16,23,17,1
+13,Octopussy,M,m,9,17,0.170,0.486,0.057,6,8,6,41,7
+14,A View to Kill,M,m,6,29,0.201,0.485,0.004,6,18,13,34,7
+15,The Living Daylights,M,m,17,27,0.245,0.558,0.184,4,4,3,15,4
+16,License to Kill,M,m,5,5,0.022,0.463,0.013,29,40,14,20,1
+17,GoldenEye,M,f,6,11,0.127,0.474,0.066,8,8,7,36,5
+18,Tomorrow Never Dies,M,f,8,47,0.407,0.448,0.053,5,10,7,13,5
+19,The World Is Not Enough,M,f,13,53,0.385,0.60,0.043,3,4,5,25,1
+20,Die Another Day,M,f,9,20,0.188,0.517,0.035,6,6,8,15,3
+21,Casino Royal,M,f,7,17,0.114,0.515,0.0068,13,15,9,41,5
+22,Quantum of solace,M,f,11,48,0.395,0.514,0.055,3,6,4,38,15
+23,Skyfall,M,f,16,79,0.886,0.621,0.122,2,2,2,24,21
+24,Spectre,M,m,9,31,0.361,0.547,0.01,4,6,8,19,7
+25,No Time to Die,M,m,8,61,0.316,0.547,0.080,5,8,5,18,6
